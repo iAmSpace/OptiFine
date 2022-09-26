@@ -1,255 +1,289 @@
 # Minecraft 1.8.9
 
-OptiFine_1.8.9_HD_U_H3: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_H3.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_H3.jar" target="">Mirror</a><br>
-OptiFine_1.8.9_HD_U_H2: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_H2.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_H2.jar" target="">Mirror</a><br>
-OptiFine_1.8.9_HD_U_H1: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_H1.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_H1.jar" target="">Mirror</a><br>
-OptiFine_1.8.9_HD_U_G9: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_G9.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_G9.jar" target="">Mirror</a><br>
-OptiFine_1.8.9_HD_U_G7: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_G7.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_G7.jar" target="">Mirror</a>
+OptiFine_1.8.9_HD_U_H3: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_H3.jar)\
+OptiFine_1.8.9_HD_U_H2: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_H2.jar)\
+OptiFine_1.8.9_HD_U_H1: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_H1.jar)\
+OptiFine_1.8.9_HD_U_G9: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_G9.jar)\
+OptiFine_1.8.9_HD_U_G7: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_G7.jar)
 
 # Minecraft 1.8.8
 
-OptiFine_1.8.8_HD_U_H2: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.8_HD_U_H2.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.8.8_HD_U_H2.jar" target="">Mirror</a><br>
-OptiFine_1.8.8_HD_U_G9: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.8_HD_U_G9.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.8.8_HD_U_G9.jar" target="">Mirror</a><br>
-OptiFine_1.8.8_HD_U_G7: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.8_HD_U_G7.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.8.8_HD_U_G7.jar" target="">Mirror</a><br>
-OptiFine_1.8.8_HD_U_G6: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.8_HD_U_G6.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.8.8_HD_U_G6.jar" target="">Mirror</a><br>
-OptiFine_1.8.8_HD_U_F5: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.8_HD_U_F5.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.8.8_HD_U_F5.jar" target="">Mirror</a><br>
-OptiFine_1.8.8_HD_U_F3: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.8_HD_U_F3.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.8.8_HD_U_F3.jar" target="">Mirror</a><br>
-OptiFine_1.8.8_HD_U_E2: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.8_HD_U_E2.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.8.8_HD_U_E2.jar" target="">Mirror</a><br>
-OptiFine_1.8.8_HD_U_E1: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.8_HD_U_E1.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.8.8_HD_U_E1.jar" target="">Mirror</a>
+OptiFine_1.8.8_HD_U_H2: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.8_HD_U_H2.jar)\
+OptiFine_1.8.8_HD_U_G9: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.8_HD_U_G9.jar)\
+OptiFine_1.8.8_HD_U_G7: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.8_HD_U_G7.jar)\
+OptiFine_1.8.8_HD_U_G6: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.8_HD_U_G6.jar)\
+OptiFine_1.8.8_HD_U_F5: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.8_HD_U_F5.jar)\
+OptiFine_1.8.8_HD_U_F3: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.8_HD_U_F3.jar)\
+OptiFine_1.8.8_HD_U_E2: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.8_HD_U_E2.jar)\
+OptiFine_1.8.8_HD_U_E1: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.8_HD_U_E1.jar)
 
 # Minecraft 1.8.7
 
-OptiFine_1.8.7_HD_U_D6: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.7_HD_U_D6.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.8.7_HD_U_D6.jar" target="">Mirror</a><br>
-OptiFine_1.8.7_HD_U_D5: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.7_HD_U_D5.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.8.7_HD_U_D5.jar" target="">Mirror</a>
+OptiFine_1.8.7_HD_U_D6: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.7_HD_U_D6.jar)\
+OptiFine_1.8.7_HD_U_D5: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.7_HD_U_D5.jar)
+
+---
+### Minecraft versions 1.8.6 and 1.8.5 are missing.
+---
 
 # Minecraft 1.8.4
 
-OptiFine_1.8.4_HD_U_D6: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.4_HD_U_D6.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.8.4_HD_U_D6.jar" target="">Mirror</a><br>
-OptiFine_1.8.4_HD_U_D5: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.4_HD_U_D5.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.8.4_HD_U_D5.jar" target="">Mirror</a><br>
-OptiFine_1.8.4_HD_U_D4: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.4_HD_U_D4.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.8.4_HD_U_D4.jar" target="">Mirror</a>
+OptiFine_1.8.4_HD_U_D6: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.4_HD_U_D6.jar)\
+OptiFine_1.8.4_HD_U_D5: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.4_HD_U_D5.jar)\
+OptiFine_1.8.4_HD_U_D4: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.4_HD_U_D4.jar)
 
 # Minecraft 1.8.3
 
-OptiFine_1.8.3_HD_U_D3: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.3_HD_U_D3.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.8.3_HD_U_D3.jar" target="">Mirror</a><br>
-OptiFine_1.8.3_HD_U_B2: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.3_HD_U_B2.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.8.3_HD_U_B2.jar" target="">Mirror</a><br>
-OptiFine_1.8.3_HD_U_B1: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.3_HD_U_B1.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.8.3_HD_U_B1.jar" target="">Mirror</a><br>
-OptiFine_1.8.3_HD_U_A5: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.3_HD_U_A5.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.8.3_HD_U_A5.jar" target="">Mirror</a><br>
-OptiFine_1.8.3_HD_U_A4: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.3_HD_U_A4.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.8.3_HD_U_A4.jar" target="">Mirror</a><br>
-OptiFine_1.8.3_HD_U_A3: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.3_HD_U_A3.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.8.3_HD_U_A3.jar" target="">Mirror</a><br>
-OptiFine_1.8.3_HD_U_A2: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.3_HD_U_A2.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.8.3_HD_U_A2.jar" target="">Mirror</a><br>
-OptiFine_1.8.3_HD_U_A1: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.3_HD_U_A1.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.8.3_HD_U_A1.jar" target="">Mirror</a>
+OptiFine_1.8.3_HD_U_D3: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.3_HD_U_D3.jar)\
+OptiFine_1.8.3_HD_U_B2: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.3_HD_U_B2.jar)\
+OptiFine_1.8.3_HD_U_B1: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.3_HD_U_B1.jar)\
+OptiFine_1.8.3_HD_U_A5: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.3_HD_U_A5.jar)\
+OptiFine_1.8.3_HD_U_A4: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.3_HD_U_A4.jar)\
+OptiFine_1.8.3_HD_U_A3: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.3_HD_U_A3.jar)\
+OptiFine_1.8.3_HD_U_A2: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.3_HD_U_A2.jar)\
+OptiFine_1.8.3_HD_U_A1: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.3_HD_U_A1.jar)
+
+---
+### Minecraft version 1.8.2 is missing.
+---
 
 # Minecraft 1.8.1
 
-OptiFine_1.8.1_HD_U_C7: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.1_HD_U_C7.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.8.1_HD_U_C7.jar" target="">Mirror</a><br>
-OptiFine_1.8.1_HD_U_C6: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.1_HD_U_C6.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.8.1_HD_U_C6.jar" target="">Mirror</a><br>
-OptiFine_1.8.1_HD_U_C5: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.1_HD_U_C5.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.8.1_HD_U_C5.jar" target="">Mirror</a><br>
-OptiFine_1.8.1_HD_U_C4: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.1_HD_U_C4.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.8.1_HD_U_C4.jar" target="">Mirror</a><br>
-OptiFine_1.8.1_HD_U_C3: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.1_HD_U_C3.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.8.1_HD_U_C3.jar" target="">Mirror</a><br>
-OptiFine_1.8.1_HD_U_C2: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.1_HD_U_C2.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.8.1_HD_U_C2.jar" target="">Mirror</a><br>
-OptiFine_1.8.1_HD_U_C1: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.1_HD_U_C1.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.8.1_HD_U_C1.jar" target="">Mirror</a><br>
-OptiFine_1.8.1_HD_U_B6: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.1_HD_U_B6.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.8.1_HD_U_B6.jar" target="">Mirror</a><br>
-OptiFine_1.8.1_HD_U_B5: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.1_HD_U_B5.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.8.1_HD_U_B5.jar" target="">Mirror</a><br>
-OptiFine_1.8.1_HD_U_B4: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.1_HD_U_B4.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.8.1_HD_U_B4.jar" target="">Mirror</a><br>
-OptiFine_1.8.1_HD_U_B2: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.1_HD_U_B2.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.8.1_HD_U_B2.jar" target="">Mirror</a>
+OptiFine_1.8.1_HD_U_C7: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.1_HD_U_C7.jar)\
+OptiFine_1.8.1_HD_U_C6: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.1_HD_U_C6.jar)\
+OptiFine_1.8.1_HD_U_C5: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.1_HD_U_C5.jar)\
+OptiFine_1.8.1_HD_U_C4: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.1_HD_U_C4.jar)\
+OptiFine_1.8.1_HD_U_C3: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.1_HD_U_C3.jar)\
+OptiFine_1.8.1_HD_U_C2: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.1_HD_U_C2.jar)\
+OptiFine_1.8.1_HD_U_C1: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.1_HD_U_C1.jar)\
+OptiFine_1.8.1_HD_U_B6: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.1_HD_U_B6.jar)\
+OptiFine_1.8.1_HD_U_B5: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.1_HD_U_B5.jar)\
+OptiFine_1.8.1_HD_U_B4: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.1_HD_U_B4.jar)\
+OptiFine_1.8.1_HD_U_B2: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.1_HD_U_B2.jar)
 
 # Minecraft 1.8.0
 
-OptiFine_1.8.0_HD_U_H2: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_H2.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_H2.jar" target="">Mirror</a><br>
-OptiFine_1.8.0_HD_U_G9: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_G9.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_G9.jar" target="">Mirror</a><br>
-OptiFine_1.8.0_HD_U_G7: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_G7.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_G7.jar" target="">Mirror</a><br>
-OptiFine_1.8.0_HD_U_G6: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_G6.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_G6.jar" target="">Mirror</a><br>
-OptiFine_1.8.0_HD_U_F8: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_F8.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_F8.jar" target="">Mirror</a><br>
-OptiFine_1.8.0_HD_U_D5: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_D5.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_D5.jar" target="">Mirror</a><br>
-OptiFine_1.8.0_HD_U_D4: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_D4.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_D4.jar" target="">Mirror</a><br>
-OptiFine_1.8.0_HD_U_D3: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_D3.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_D3.jar" target="">Mirror</a><br>
-OptiFine_1.8.0_HD_U_D2: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_D2.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_D2.jar" target="">Mirror</a><br>
-OptiFine_1.8.0_HD_U_D1: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_D1.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_D1.jar" target="">Mirror</a>
+OptiFine_1.8.0_HD_U_H2: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_H2.jar)\
+OptiFine_1.8.0_HD_U_G9: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_G9.jar)\
+OptiFine_1.8.0_HD_U_G7: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_G7.jar)\
+OptiFine_1.8.0_HD_U_G6: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_G6.jar)\
+OptiFine_1.8.0_HD_U_F8: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_F8.jar)\
+OptiFine_1.8.0_HD_U_D5: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_D5.jar)\
+OptiFine_1.8.0_HD_U_D4: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_D4.jar)\
+OptiFine_1.8.0_HD_U_D3: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_D3.jar)\
+OptiFine_1.8.0_HD_U_D2: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_D2.jar)\
+OptiFine_1.8.0_HD_U_D1: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_D1.jar)
 
 # Minecraft 1.7.10
 
-OptiFine_1.7.10_L_B6: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.10_L_B6.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.7.10_L_B6.jar" target="">Mirror</a><br>
-OptiFine_1.7.10_L_A4: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.10_L_A4.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.7.10_L_A4.jar" target="">Mirror</a><br>
-OptiFine_1.7.10_HD_U_D1: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.10_HD_U_D1.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.7.10_HD_U_D1.jar" target="">Mirror</a><br>
-OptiFine_1.7.10_HD_U_C1: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.10_HD_U_C1.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.7.10_HD_U_C1.jar" target="">Mirror</a><br>
-OptiFine_1.7.10_HD_U_B8: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.10_HD_U_B8.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.7.10_HD_U_B8.jar" target="">Mirror</a><br>
-OptiFine_1.7.10_HD_D1: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.10_HD_D1.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.7.10_HD_D1.jar" target="">Mirror</a><br>
-OptiFine_1.7.10_HD_C1: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.10_HD_C1.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.7.10_HD_C1.jar" target="">Mirror</a><br>
-OptiFine_1.7.10_HD_B8: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.10_HD_B8.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.7.10_HD_B8.jar" target="">Mirror</a>
+OptiFine_1.7.10_L_B6: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.10_L_B6.jar)\
+OptiFine_1.7.10_L_A4: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.10_L_A4.jar)\
+OptiFine_1.7.10_HD_U_D1: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.10_HD_U_D1.jar)\
+OptiFine_1.7.10_HD_U_C1: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.10_HD_U_C1.jar)\
+OptiFine_1.7.10_HD_U_B8: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.10_HD_U_B8.jar)\
+OptiFine_1.7.10_HD_D1: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.10_HD_D1.jar)\
+OptiFine_1.7.10_HD_C1: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.10_HD_C1.jar)\
+OptiFine_1.7.10_HD_B8: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.10_HD_B8.jar)
 
 # Minecraft 1.7.9
 
-OptiFine_1.7.9_HD_U_D2: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.9_HD_U_D2.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.7.9_HD_U_D2.jar" target="">Mirror</a>
+OptiFine_1.7.9_HD_U_D2: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.9_HD_U_D2.jar)
+
+---
+### Minecraft versions 1.7.8, 1.7.7, and 1.7.6 are missing.
+---
 
 # Minecraft 1.7.5
 
-OptiFine_1.7.5_HD_U_D1: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.5_HD_U_D1.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.7.5_HD_U_D1.jar" target="">Mirror</a>
+OptiFine_1.7.5_HD_U_D1: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.5_HD_U_D1.jar)
 
 # Minecraft 1.7.4
 
-OptiFine_1.7.4_L_C7: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.4_L_C7.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.7.4_L_C7.jar" target="">Mirror</a><br>
-OptiFine_1.7.4_HD_U_D1: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.4_HD_U_D1.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.7.4_HD_U_D1.jar" target="">Mirror</a><br>
-OptiFine_1.7.4_HD_U_C8: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.4_HD_U_C8.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.7.4_HD_U_C8.jar" target="">Mirror</a><br>
-OptiFine_1.7.4_HD_U_C7: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.4_HD_U_C7.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.7.4_HD_U_C7.jar" target="">Mirror</a><br>
-OptiFine_1.7.4_HD_U_C5: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.4_HD_U_C5.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.7.4_HD_U_C5.jar" target="">Mirror</a><br>
-OptiFine_1.7.4_HD_U_C4: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.4_HD_U_C4.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.7.4_HD_U_C4.jar" target="">Mirror</a><br>
-OptiFine_1.7.4_HD_U_C3: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.4_HD_U_C3.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.7.4_HD_U_C3.jar" target="">Mirror</a><br>
-OptiFine_1.7.4_HD_D1: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.4_HD_D1.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.7.4_HD_D1.jar" target="">Mirror</a><br>
-OptiFine_1.7.4_HD_C7: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.4_HD_C7.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.7.4_HD_C7.jar" target="">Mirror</a>
+OptiFine_1.7.4_L_C7: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.4_L_C7.jar)\
+OptiFine_1.7.4_HD_U_D1: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.4_HD_U_D1.jar)\
+OptiFine_1.7.4_HD_U_C8: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.4_HD_U_C8.jar)\
+OptiFine_1.7.4_HD_U_C7: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.4_HD_U_C7.jar)\
+OptiFine_1.7.4_HD_U_C5: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.4_HD_U_C5.jar)\
+OptiFine_1.7.4_HD_U_C4: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.4_HD_U_C4.jar)\
+OptiFine_1.7.4_HD_U_C3: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.4_HD_U_C3.jar)\
+OptiFine_1.7.4_HD_D1: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.4_HD_D1.jar)\
+OptiFine_1.7.4_HD_C7: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.4_HD_C7.jar)
+
+---
+### Minecraft version 1.7.3 is missing.
+---
 
 # Minecraft 1.7.2
 
-OptiFine_1.7.2_HD_U_E1: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.2_HD_U_E1.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.7.2_HD_U_E1.jar" target="">Mirror</a><br>
-OptiFine_1.7.2_HD_U_D5: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.2_HD_U_D5.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.7.2_HD_U_D5.jar" target="">Mirror</a><br>
-OptiFine_1.7.2_HD_U_D4: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.2_HD_U_D4.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.7.2_HD_U_D4.jar" target="">Mirror</a><br>
-OptiFine_1.7.2_HD_U_D3: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.2_HD_U_D3.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.7.2_HD_U_D3.jar" target="">Mirror</a><br>
-OptiFine_1.7.2_HD_U_D1: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.2_HD_U_D1.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.7.2_HD_U_D1.jar" target="">Mirror</a><br>
-OptiFine_1.7.2_HD_U_C2: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.2_HD_U_C2.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.7.2_HD_U_C2.jar" target="">Mirror</a><br>
-OptiFine_1.7.2_HD_U_B7: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.2_HD_U_B7.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.7.2_HD_U_B7.jar" target="">Mirror</a><br>
-OptiFine_1.7.2_HD_E1: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.2_HD_E1.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.7.2_HD_E1.jar" target="">Mirror</a><br>
-OptiFine_1.7.2_HD_D5: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.2_HD_D5.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.7.2_HD_D5.jar" target="">Mirror</a><br>
-OptiFine_1.7.2_HD_D4: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.2_HD_D4.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.7.2_HD_D4.jar" target="">Mirror</a><br>
-OptiFine_1.7.2_HD_D3: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.2_HD_D3.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.7.2_HD_D3.jar" target="">Mirror</a><br>
-OptiFine_1.7.2_HD_D1: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.2_HD_D1.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.7.2_HD_D1.jar" target="">Mirror</a><br>
-OptiFine_1.7.2_HD_C2: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.2_HD_C2.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.7.2_HD_C2.jar" target="">Mirror</a>
+OptiFine_1.7.2_HD_U_E1: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.2_HD_U_E1.jar)\
+OptiFine_1.7.2_HD_U_D5: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.2_HD_U_D5.jar)\
+OptiFine_1.7.2_HD_U_D4: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.2_HD_U_D4.jar)\
+OptiFine_1.7.2_HD_U_D3: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.2_HD_U_D3.jar)\
+OptiFine_1.7.2_HD_U_D1: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.2_HD_U_D1.jar)\
+OptiFine_1.7.2_HD_U_C2: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.2_HD_U_C2.jar)\
+OptiFine_1.7.2_HD_U_B7: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.2_HD_U_B7.jar)\
+OptiFine_1.7.2_HD_E1: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.2_HD_E1.jar)\
+OptiFine_1.7.2_HD_D5: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.2_HD_D5.jar)\
+OptiFine_1.7.2_HD_D4: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.2_HD_D4.jar)\
+OptiFine_1.7.2_HD_D3: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.2_HD_D3.jar)\
+OptiFine_1.7.2_HD_D1: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.2_HD_D1.jar)\
+OptiFine_1.7.2_HD_C2: [Download](https://optifine.net/adloadx?f=OptiFine_1.7.2_HD_C2.jar)
+
+---
+### Minecraft versions 1.7.1 and 1.7 are missing.
+---
 
 # Minecraft 1.6.4
 
-OptiFine_1.6.4_L_C9: [Download](https://optifine.net/adloadx?f=OptiFine_1.6.4_L_C9.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.6.4_L_C9.jar" target="">Mirror</a><br>
-OptiFine_1.6.4_L_C7: [Download](https://optifine.net/adloadx?f=OptiFine_1.6.4_L_C7.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.6.4_L_C7.jar" target="">Mirror</a><br>
-OptiFine_1.6.4_L_C6: [Download](https://optifine.net/adloadx?f=OptiFine_1.6.4_L_C6.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.6.4_L_C6.jar" target="">Mirror</a><br>
-OptiFine_1.6.4_HD_U_D1: [Download](https://optifine.net/adloadx?f=OptiFine_1.6.4_HD_U_D1.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.6.4_HD_U_D1.jar" target="">Mirror</a><br>
-OptiFine_1.6.4_HD_U_C9: [Download](https://optifine.net/adloadx?f=OptiFine_1.6.4_HD_U_C9.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.6.4_HD_U_C9.jar" target="">Mirror</a><br>
-OptiFine_1.6.4_HD_U_C8: [Download](https://optifine.net/adloadx?f=OptiFine_1.6.4_HD_U_C8.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.6.4_HD_U_C8.jar" target="">Mirror</a><br>
-OptiFine_1.6.4_HD_U_C7: [Download](https://optifine.net/adloadx?f=OptiFine_1.6.4_HD_U_C7.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.6.4_HD_U_C7.jar" target="">Mirror</a><br>
-OptiFine_1.6.4_HD_U_C6: [Download](https://optifine.net/adloadx?f=OptiFine_1.6.4_HD_U_C6.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.6.4_HD_U_C6.jar" target="">Mirror</a><br>
-OptiFine_1.6.4_HD_U_C5: [Download](https://optifine.net/adloadx?f=OptiFine_1.6.4_HD_U_C5.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.6.4_HD_U_C5.jar" target="">Mirror</a><br>
-OptiFine_1.6.4_HD_U_C4: [Download](https://optifine.net/adloadx?f=OptiFine_1.6.4_HD_U_C4.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.6.4_HD_U_C4.jar" target="">Mirror</a><br>
-OptiFine_1.6.4_HD_D1: [Download](https://optifine.net/adloadx?f=OptiFine_1.6.4_HD_D1.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.6.4_HD_D1.jar" target="">Mirror</a><br>
-OptiFine_1.6.4_HD_C9: [Download](https://optifine.net/adloadx?f=OptiFine_1.6.4_HD_C9.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.6.4_HD_C9.jar" target="">Mirror</a><br>
-OptiFine_1.6.4_HD_C8: [Download](https://optifine.net/adloadx?f=OptiFine_1.6.4_HD_C8.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.6.4_HD_C8.jar" target="">Mirror</a><br>
-OptiFine_1.6.4_HD_C7: [Download](https://optifine.net/adloadx?f=OptiFine_1.6.4_HD_C7.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.6.4_HD_C7.jar" target="">Mirror</a><br>
-OptiFine_1.6.4_HD_C6: [Download](https://optifine.net/adloadx?f=OptiFine_1.6.4_HD_C6.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.6.4_HD_C6.jar" target="">Mirror</a>
+OptiFine_1.6.4_L_C9: [Download](https://optifine.net/adloadx?f=OptiFine_1.6.4_L_C9.jar)\
+OptiFine_1.6.4_L_C7: [Download](https://optifine.net/adloadx?f=OptiFine_1.6.4_L_C7.jar)\
+OptiFine_1.6.4_L_C6: [Download](https://optifine.net/adloadx?f=OptiFine_1.6.4_L_C6.jar)\
+OptiFine_1.6.4_HD_U_D1: [Download](https://optifine.net/adloadx?f=OptiFine_1.6.4_HD_U_D1.jar)\
+OptiFine_1.6.4_HD_U_C9: [Download](https://optifine.net/adloadx?f=OptiFine_1.6.4_HD_U_C9.jar)\
+OptiFine_1.6.4_HD_U_C8: [Download](https://optifine.net/adloadx?f=OptiFine_1.6.4_HD_U_C8.jar)\
+OptiFine_1.6.4_HD_U_C7: [Download](https://optifine.net/adloadx?f=OptiFine_1.6.4_HD_U_C7.jar)\
+OptiFine_1.6.4_HD_U_C6: [Download](https://optifine.net/adloadx?f=OptiFine_1.6.4_HD_U_C6.jar)\
+OptiFine_1.6.4_HD_U_C5: [Download](https://optifine.net/adloadx?f=OptiFine_1.6.4_HD_U_C5.jar)\
+OptiFine_1.6.4_HD_U_C4: [Download](https://optifine.net/adloadx?f=OptiFine_1.6.4_HD_U_C4.jar)\
+OptiFine_1.6.4_HD_D1: [Download](https://optifine.net/adloadx?f=OptiFine_1.6.4_HD_D1.jar)\
+OptiFine_1.6.4_HD_C9: [Download](https://optifine.net/adloadx?f=OptiFine_1.6.4_HD_C9.jar)\
+OptiFine_1.6.4_HD_C8: [Download](https://optifine.net/adloadx?f=OptiFine_1.6.4_HD_C8.jar)\
+OptiFine_1.6.4_HD_C7: [Download](https://optifine.net/adloadx?f=OptiFine_1.6.4_HD_C7.jar)\
+OptiFine_1.6.4_HD_C6: [Download](https://optifine.net/adloadx?f=OptiFine_1.6.4_HD_C6.jar)
+
+---
+### Minecraft version 1.6.3 is missing.
+---
 
 # Minecraft 1.6.2
 
-OptiFine_1.6.2_L_C4: [Download](https://optifine.net/adloadx?f=OptiFine_1.6.2_L_C4.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.6.2_L_C4.jar" target="">Mirror</a><br>
-OptiFine_1.6.2_L_B4: [Download](https://optifine.net/adloadx?f=OptiFine_1.6.2_L_B4.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.6.2_L_B4.zip" target="">Mirror</a><br>
-OptiFine_1.6.2_HD_U_C4: [Download](https://optifine.net/adloadx?f=OptiFine_1.6.2_HD_U_C4.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.6.2_HD_U_C4.jar" target="">Mirror</a><br>
-OptiFine_1.6.2_HD_U_C3: [Download](https://optifine.net/adloadx?f=OptiFine_1.6.2_HD_U_C3.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.6.2_HD_U_C3.jar" target="">Mirror</a><br>
-OptiFine_1.6.2_HD_U_C2: [Download](https://optifine.net/adloadx?f=OptiFine_1.6.2_HD_U_C2.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.6.2_HD_U_C2.jar" target="">Mirror</a><br>
-OptiFine_1.6.2_HD_U_C1: [Download](https://optifine.net/adloadx?f=OptiFine_1.6.2_HD_U_C1.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.6.2_HD_U_C1.jar" target="">Mirror</a><br>
-OptiFine_1.6.2_HD_U_B5: [Download](https://optifine.net/adloadx?f=OptiFine_1.6.2_HD_U_B5.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.6.2_HD_U_B5.zip" target="">Mirror</a><br>
-OptiFine_1.6.2_HD_C4: [Download](https://optifine.net/adloadx?f=OptiFine_1.6.2_HD_C4.jar) <a href="https://optifine.net/adloadx?f=OptiFine_1.6.2_HD_C4.jar" target="">Mirror</a><br>
-OptiFine_1.6.2_HD_B5: [Download](https://optifine.net/adloadx?f=OptiFine_1.6.2_HD_B5.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.6.2_HD_B5.zip" target="">Mirror</a>
+OptiFine_1.6.2_L_C4: [Download](https://optifine.net/adloadx?f=OptiFine_1.6.2_L_C4.jar)\
+OptiFine_1.6.2_L_B4: [Download](https://optifine.net/adloadx?f=OptiFine_1.6.2_L_B4.zip)\
+OptiFine_1.6.2_HD_U_C4: [Download](https://optifine.net/adloadx?f=OptiFine_1.6.2_HD_U_C4.jar)\
+OptiFine_1.6.2_HD_U_C3: [Download](https://optifine.net/adloadx?f=OptiFine_1.6.2_HD_U_C3.jar)\
+OptiFine_1.6.2_HD_U_C2: [Download](https://optifine.net/adloadx?f=OptiFine_1.6.2_HD_U_C2.jar)\
+OptiFine_1.6.2_HD_U_C1: [Download](https://optifine.net/adloadx?f=OptiFine_1.6.2_HD_U_C1.jar)\
+OptiFine_1.6.2_HD_U_B5: [Download](https://optifine.net/adloadx?f=OptiFine_1.6.2_HD_U_B5.zip)\
+OptiFine_1.6.2_HD_C4: [Download](https://optifine.net/adloadx?f=OptiFine_1.6.2_HD_C4.jar)\
+OptiFine_1.6.2_HD_B5: [Download](https://optifine.net/adloadx?f=OptiFine_1.6.2_HD_B5.zip)\
+
+---
+### Minecraft versions 1.6.1 and 1.6 are missing.
+---
 
 # Minecraft 1.5.2
 
-OptiFine_1.5.2_L_D2: [Download](https://optifine.net/adloadx?f=OptiFine_1.5.2_L_D2.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.5.2_L_D2.zip" target="">Mirror</a><br>
-OptiFine_1.5.2_HD_U_D5: [Download](https://optifine.net/adloadx?f=OptiFine_1.5.2_HD_U_D5.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.5.2_HD_U_D5.zip" target="">Mirror</a><br>
-OptiFine_1.5.2_HD_U_D4: [Download](https://optifine.net/adloadx?f=OptiFine_1.5.2_HD_U_D4.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.5.2_HD_U_D4.zip" target="">Mirror</a><br>
-OptiFine_1.5.2_HD_U_D3: [Download](https://optifine.net/adloadx?f=OptiFine_1.5.2_HD_U_D3.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.5.2_HD_U_D3.zip" target="">Mirror</a><br>
-OptiFine_1.5.2_HD_U_D2: [Download](https://optifine.net/adloadx?f=OptiFine_1.5.2_HD_U_D2.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.5.2_HD_U_D2.zip" target="">Mirror</a><br>
-OptiFine_1.5.2_HD_D5: [Download](https://optifine.net/adloadx?f=OptiFine_1.5.2_HD_D5.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.5.2_HD_D5.zip" target="">Mirror</a><br>
-OptiFine_1.5.2_HD_D3: [Download](https://optifine.net/adloadx?f=OptiFine_1.5.2_HD_D3.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.5.2_HD_D3.zip" target="">Mirror</a><br>
-OptiFine_1.5.2_HD_D2: [Download](https://optifine.net/adloadx?f=OptiFine_1.5.2_HD_D2.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.5.2_HD_D2.zip" target="">Mirror</a>
+OptiFine_1.5.2_L_D2: [Download](https://optifine.net/adloadx?f=OptiFine_1.5.2_L_D2.zip)\
+OptiFine_1.5.2_HD_U_D5: [Download](https://optifine.net/adloadx?f=OptiFine_1.5.2_HD_U_D5.zip)\
+OptiFine_1.5.2_HD_U_D4: [Download](https://optifine.net/adloadx?f=OptiFine_1.5.2_HD_U_D4.zip)\
+OptiFine_1.5.2_HD_U_D3: [Download](https://optifine.net/adloadx?f=OptiFine_1.5.2_HD_U_D3.zip)\
+OptiFine_1.5.2_HD_U_D2: [Download](https://optifine.net/adloadx?f=OptiFine_1.5.2_HD_U_D2.zip)\
+OptiFine_1.5.2_HD_D5: [Download](https://optifine.net/adloadx?f=OptiFine_1.5.2_HD_D5.zip)\
+OptiFine_1.5.2_HD_D3: [Download](https://optifine.net/adloadx?f=OptiFine_1.5.2_HD_D3.zip)\
+OptiFine_1.5.2_HD_D2: [Download](https://optifine.net/adloadx?f=OptiFine_1.5.2_HD_D2.zip)
 
 # Minecraft 1.5.1
 
-OptiFine_1.5.1_L_B1: [Download](https://optifine.net/adloadx?f=OptiFine_1.5.1_L_B1.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.5.1_L_B1.zip" target="">Mirror</a><br>
-OptiFine_1.5.1_HD_U_D1: [Download](https://optifine.net/adloadx?f=OptiFine_1.5.1_HD_U_D1.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.5.1_HD_U_D1.zip" target="">Mirror</a><br>
-OptiFine_1.5.1_HD_U_C9: [Download](https://optifine.net/adloadx?f=OptiFine_1.5.1_HD_U_C9.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.5.1_HD_U_C9.zip" target="">Mirror</a><br>
-OptiFine_1.5.1_HD_U_C8: [Download](https://optifine.net/adloadx?f=OptiFine_1.5.1_HD_U_C8.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.5.1_HD_U_C8.zip" target="">Mirror</a><br>
-OptiFine_1.5.1_HD_U_C7: [Download](https://optifine.net/adloadx?f=OptiFine_1.5.1_HD_U_C7.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.5.1_HD_U_C7.zip" target="">Mirror</a><br>
-OptiFine_1.5.1_HD_U_C6: [Download](https://optifine.net/adloadx?f=OptiFine_1.5.1_HD_U_C6.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.5.1_HD_U_C6.zip" target="">Mirror</a><br>
-OptiFine_1.5.1_HD_U_C4: [Download](https://optifine.net/adloadx?f=OptiFine_1.5.1_HD_U_C4.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.5.1_HD_U_C4.zip" target="">Mirror</a><br>
-OptiFine_1.5.1_HD_U_C3: [Download](https://optifine.net/adloadx?f=OptiFine_1.5.1_HD_U_C3.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.5.1_HD_U_C3.zip" target="">Mirror</a><br>
-OptiFine_1.5.1_HD_U_C2: [Download](https://optifine.net/adloadx?f=OptiFine_1.5.1_HD_U_C2.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.5.1_HD_U_C2.zip" target="">Mirror</a><br>
-OptiFine_1.5.1_HD_U_C1: [Download](https://optifine.net/adloadx?f=OptiFine_1.5.1_HD_U_C1.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.5.1_HD_U_C1.zip" target="">Mirror</a><br>
-OptiFine_1.5.1_HD_U_B3: [Download](https://optifine.net/adloadx?f=OptiFine_1.5.1_HD_U_B3.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.5.1_HD_U_B3.zip" target="">Mirror</a><br>
-OptiFine_1.5.1_HD_D1: [Download](https://optifine.net/adloadx?f=OptiFine_1.5.1_HD_D1.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.5.1_HD_D1.zip" target="">Mirror</a><br>
-OptiFine_1.5.1_HD_C4: [Download](https://optifine.net/adloadx?f=OptiFine_1.5.1_HD_C4.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.5.1_HD_C4.zip" target="">Mirror</a><br>
-OptiFine_1.5.1_HD_C2: [Download](https://optifine.net/adloadx?f=OptiFine_1.5.1_HD_C2.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.5.1_HD_C2.zip" target="">Mirror</a><br>
-OptiFine_1.5.1_HD_B3: [Download](https://optifine.net/adloadx?f=OptiFine_1.5.1_HD_B3.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.5.1_HD_B3.zip" target="">Mirror</a>
+OptiFine_1.5.1_L_B1: [Download](https://optifine.net/adloadx?f=OptiFine_1.5.1_L_B1.zip)\
+OptiFine_1.5.1_HD_U_D1: [Download](https://optifine.net/adloadx?f=OptiFine_1.5.1_HD_U_D1.zip)\
+OptiFine_1.5.1_HD_U_C9: [Download](https://optifine.net/adloadx?f=OptiFine_1.5.1_HD_U_C9.zip)\
+OptiFine_1.5.1_HD_U_C8: [Download](https://optifine.net/adloadx?f=OptiFine_1.5.1_HD_U_C8.zip)\
+OptiFine_1.5.1_HD_U_C7: [Download](https://optifine.net/adloadx?f=OptiFine_1.5.1_HD_U_C7.zip)\
+OptiFine_1.5.1_HD_U_C6: [Download](https://optifine.net/adloadx?f=OptiFine_1.5.1_HD_U_C6.zip)\
+OptiFine_1.5.1_HD_U_C4: [Download](https://optifine.net/adloadx?f=OptiFine_1.5.1_HD_U_C4.zip)\
+OptiFine_1.5.1_HD_U_C3: [Download](https://optifine.net/adloadx?f=OptiFine_1.5.1_HD_U_C3.zip)\
+OptiFine_1.5.1_HD_U_C2: [Download](https://optifine.net/adloadx?f=OptiFine_1.5.1_HD_U_C2.zip)\
+OptiFine_1.5.1_HD_U_C1: [Download](https://optifine.net/adloadx?f=OptiFine_1.5.1_HD_U_C1.zip)\
+OptiFine_1.5.1_HD_U_B3: [Download](https://optifine.net/adloadx?f=OptiFine_1.5.1_HD_U_B3.zip)\
+OptiFine_1.5.1_HD_D1: [Download](https://optifine.net/adloadx?f=OptiFine_1.5.1_HD_D1.zip)\
+OptiFine_1.5.1_HD_C4: [Download](https://optifine.net/adloadx?f=OptiFine_1.5.1_HD_C4.zip)\
+OptiFine_1.5.1_HD_C2: [Download](https://optifine.net/adloadx?f=OptiFine_1.5.1_HD_C2.zip)\
+OptiFine_1.5.1_HD_B3: [Download](https://optifine.net/adloadx?f=OptiFine_1.5.1_HD_B3.zip)
 
 # Minecraft 1.5.0
 
-OptiFine_1.5.0_HD_U_A7: [Download](https://optifine.net/adloadx?f=OptiFine_1.5.0_HD_U_A7.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.5.0_HD_U_A7.zip" target="">Mirror</a><br>
-OptiFine_1.5.0_HD_U_A5: [Download](https://optifine.net/adloadx?f=OptiFine_1.5.0_HD_U_A5.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.5.0_HD_U_A5.zip" target="">Mirror</a><br>
-OptiFine_1.5.0_HD_U_A4: [Download](https://optifine.net/adloadx?f=OptiFine_1.5.0_HD_U_A4.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.5.0_HD_U_A4.zip" target="">Mirror</a><br>
-OptiFine_1.5.0_HD_U_A3: [Download](https://optifine.net/adloadx?f=OptiFine_1.5.0_HD_U_A3.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.5.0_HD_U_A3.zip" target="">Mirror</a><br>
-OptiFine_1.5.0_HD_U_A2: [Download](https://optifine.net/adloadx?f=OptiFine_1.5.0_HD_U_A2.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.5.0_HD_U_A2.zip" target="">Mirror</a><br>
-OptiFine_1.5.0_HD_U_A1: [Download](https://optifine.net/adloadx?f=OptiFine_1.5.0_HD_U_A1.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.5.0_HD_U_A1.zip" target="">Mirror</a>
+OptiFine_1.5.0_HD_U_A7: [Download](https://optifine.net/adloadx?f=OptiFine_1.5.0_HD_U_A7.zip)\
+OptiFine_1.5.0_HD_U_A5: [Download](https://optifine.net/adloadx?f=OptiFine_1.5.0_HD_U_A5.zip)\
+OptiFine_1.5.0_HD_U_A4: [Download](https://optifine.net/adloadx?f=OptiFine_1.5.0_HD_U_A4.zip)\
+OptiFine_1.5.0_HD_U_A3: [Download](https://optifine.net/adloadx?f=OptiFine_1.5.0_HD_U_A3.zip)\
+OptiFine_1.5.0_HD_U_A2: [Download](https://optifine.net/adloadx?f=OptiFine_1.5.0_HD_U_A2.zip)\
+OptiFine_1.5.0_HD_U_A1: [Download](https://optifine.net/adloadx?f=OptiFine_1.5.0_HD_U_A1.zip)
+
+---
+### Minecraft version 1.4.7 is missing.
+---
 
 # Minecraft 1.4.6
 
-OptiFine_1.4.6_L_B5: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.6_L_B5.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.4.6_L_B5.zip" target="">Mirror</a><br>
-OptiFine_1.4.6_L_A3: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.6_L_A3.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.4.6_L_A3.zip" target="">Mirror</a><br>
-OptiFine_1.4.6_HD_U_D5: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.6_HD_U_D5.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.4.6_HD_U_D5.zip" target="">Mirror</a><br>
-OptiFine_1.4.6_HD_U_D4: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.6_HD_U_D4.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.4.6_HD_U_D4.zip" target="">Mirror</a><br>
-OptiFine_1.4.6_HD_U_D3: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.6_HD_U_D3.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.4.6_HD_U_D3.zip" target="">Mirror</a><br>
-OptiFine_1.4.6_HD_U_D2: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.6_HD_U_D2.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.4.6_HD_U_D2.zip" target="">Mirror</a><br>
-OptiFine_1.4.6_HD_U_D1: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.6_HD_U_D1.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.4.6_HD_U_D1.zip" target="">Mirror</a><br>
-OptiFine_1.4.6_HD_U_C3: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.6_HD_U_C3.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.4.6_HD_U_C3.zip" target="">Mirror</a><br>
-OptiFine_1.4.6_HD_U_C2: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.6_HD_U_C2.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.4.6_HD_U_C2.zip" target="">Mirror</a><br>
-OptiFine_1.4.6_HD_U_C1: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.6_HD_U_C1.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.4.6_HD_U_C1.zip" target="">Mirror</a><br>
-OptiFine_1.4.6_HD_U_B6: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.6_HD_U_B6.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.4.6_HD_U_B6.zip" target="">Mirror</a><br>
-OptiFine_1.4.6_HD_D5: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.6_HD_D5.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.4.6_HD_D5.zip" target="">Mirror</a><br>
-OptiFine_1.4.6_HD_D4: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.6_HD_D4.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.4.6_HD_D4.zip" target="">Mirror</a><br>
-OptiFine_1.4.6_HD_C3: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.6_HD_C3.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.4.6_HD_C3.zip" target="">Mirror</a><br>
-OptiFine_1.4.6_HD_B6: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.6_HD_B6.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.4.6_HD_B6.zip" target="">Mirror</a>
+OptiFine_1.4.6_L_B5: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.6_L_B5.zip)\
+OptiFine_1.4.6_L_A3: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.6_L_A3.zip)\
+OptiFine_1.4.6_HD_U_D5: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.6_HD_U_D5.zip)\
+OptiFine_1.4.6_HD_U_D4: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.6_HD_U_D4.zip)\
+OptiFine_1.4.6_HD_U_D3: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.6_HD_U_D3.zip)\
+OptiFine_1.4.6_HD_U_D2: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.6_HD_U_D2.zip)\
+OptiFine_1.4.6_HD_U_D1: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.6_HD_U_D1.zip)\
+OptiFine_1.4.6_HD_U_C3: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.6_HD_U_C3.zip)\
+OptiFine_1.4.6_HD_U_C2: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.6_HD_U_C2.zip)\
+OptiFine_1.4.6_HD_U_C1: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.6_HD_U_C1.zip)\
+OptiFine_1.4.6_HD_U_B6: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.6_HD_U_B6.zip)\
+OptiFine_1.4.6_HD_D5: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.6_HD_D5.zip)\
+OptiFine_1.4.6_HD_D4: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.6_HD_D4.zip)\
+OptiFine_1.4.6_HD_C3: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.6_HD_C3.zip)\
+OptiFine_1.4.6_HD_B6: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.6_HD_B6.zip)
 
 # Minecraft 1.4.5
 
-OptiFine_1.4.5_L_D7: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.5_L_D7.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.4.5_L_D7.zip" target="">Mirror</a><br>
-OptiFine_1.4.5_L_D5: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.5_L_D5.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.4.5_L_D5.zip" target="">Mirror</a><br>
-OptiFine_1.4.5_L_D3: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.5_L_D3.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.4.5_L_D3.zip" target="">Mirror</a><br>
-OptiFine_1.4.5_HD_U_D8: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.5_HD_U_D8.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.4.5_HD_U_D8.zip" target="">Mirror</a><br>
-OptiFine_1.4.5_HD_U_D7: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.5_HD_U_D7.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.4.5_HD_U_D7.zip" target="">Mirror</a><br>
-OptiFine_1.4.5_HD_U_D6: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.5_HD_U_D6.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.4.5_HD_U_D6.zip" target="">Mirror</a><br>
-OptiFine_1.4.5_HD_U_D5: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.5_HD_U_D5.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.4.5_HD_U_D5.zip" target="">Mirror</a><br>
-OptiFine_1.4.5_HD_U_D4: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.5_HD_U_D4.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.4.5_HD_U_D4.zip" target="">Mirror</a><br>
-OptiFine_1.4.5_HD_U_D3: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.5_HD_U_D3.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.4.5_HD_U_D3.zip" target="">Mirror</a><br>
-OptiFine_1.4.5_HD_D7: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.5_HD_D7.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.4.5_HD_D7.zip" target="">Mirror</a><br>
-OptiFine_1.4.5_HD_D5: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.5_HD_D5.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.4.5_HD_D5.zip" target="">Mirror</a><br>
-OptiFine_1.4.5_HD_D3: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.5_HD_D3.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.4.5_HD_D3.zip" target="">Mirror</a>
+OptiFine_1.4.5_L_D7: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.5_L_D7.zip)\
+OptiFine_1.4.5_L_D5: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.5_L_D5.zip)\
+OptiFine_1.4.5_L_D3: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.5_L_D3.zip)\
+OptiFine_1.4.5_HD_U_D8: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.5_HD_U_D8.zip)\
+OptiFine_1.4.5_HD_U_D7: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.5_HD_U_D7.zip)\
+OptiFine_1.4.5_HD_U_D6: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.5_HD_U_D6.zip)\
+OptiFine_1.4.5_HD_U_D5: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.5_HD_U_D5.zip)\
+OptiFine_1.4.5_HD_U_D4: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.5_HD_U_D4.zip)\
+OptiFine_1.4.5_HD_U_D3: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.5_HD_U_D3.zip)\
+OptiFine_1.4.5_HD_D7: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.5_HD_D7.zip)\
+OptiFine_1.4.5_HD_D5: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.5_HD_D5.zip)\
+OptiFine_1.4.5_HD_D3: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.5_HD_D3.zip)
 
 # Minecraft 1.4.4
 
-OptiFine_1.4.4_HD_U_D2: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.4_HD_U_D2.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.4.4_HD_U_D2.zip" target="">Mirror</a><br>
-OptiFine_1.4.4_HD_U_D1: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.4_HD_U_D1.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.4.4_HD_U_D1.zip" target="">Mirror</a>
+OptiFine_1.4.4_HD_U_D2: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.4_HD_U_D2.zip)\
+OptiFine_1.4.4_HD_U_D1: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.4_HD_U_D1.zip)
 
 # Minecraft 1.4.3
 
-OptiFine_1.4.3_HD_U_C1: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.3_HD_U_C1.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.4.3_HD_U_C1.zip" target="">Mirror</a>
+OptiFine_1.4.3_HD_U_C1: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.3_HD_U_C1.zip)
 
 # Minecraft 1.4.2
 
-OptiFine_1.4.2_L_B2: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.2_L_B2.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.4.2_L_B2.zip" target="">Mirror</a><br>
-OptiFine_1.4.2_HD_U_B5: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.2_HD_U_B5.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.4.2_HD_U_B5.zip" target="">Mirror</a><br>
-OptiFine_1.4.2_HD_U_B4: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.2_HD_U_B4.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.4.2_HD_U_B4.zip" target="">Mirror</a><br>
-OptiFine_1.4.2_HD_U_B3: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.2_HD_U_B3.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.4.2_HD_U_B3.zip" target="">Mirror</a><br>
-OptiFine_1.4.2_HD_U_B2: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.2_HD_U_B2.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.4.2_HD_U_B2.zip" target="">Mirror</a><br>
-OptiFine_1.4.2_HD_U_B1: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.2_HD_U_B1.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.4.2_HD_U_B1.zip" target="">Mirror</a><br>
-OptiFine_1.4.2_HD_B2: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.2_HD_B2.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.4.2_HD_B2.zip" target="">Mirror</a>
+OptiFine_1.4.2_L_B2: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.2_L_B2.zip)\
+OptiFine_1.4.2_HD_U_B5: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.2_HD_U_B5.zip)\
+OptiFine_1.4.2_HD_U_B4: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.2_HD_U_B4.zip)\
+OptiFine_1.4.2_HD_U_B3: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.2_HD_U_B3.zip)\
+OptiFine_1.4.2_HD_U_B2: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.2_HD_U_B2.zip)\
+OptiFine_1.4.2_HD_U_B1: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.2_HD_U_B1.zip)\
+OptiFine_1.4.2_HD_B2: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.2_HD_B2.zip)
 
 # Minecraft 1.4.1
 
-OptiFine_1.4.1_HD_U_A5: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.1_HD_U_A5.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.4.1_HD_U_A5.zip" target="">Mirror</a><br>
-OptiFine_1.4.1_HD_U_A4: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.1_HD_U_A4.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.4.1_HD_U_A4.zip" target="">Mirror</a>
+OptiFine_1.4.1_HD_U_A5: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.1_HD_U_A5.zip)\
+OptiFine_1.4.1_HD_U_A4: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.1_HD_U_A4.zip)
 
 # Minecraft 1.4.0
 
-OptiFine_1.4.0_HD_U_A3: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.0_HD_U_A3.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.4.0_HD_U_A3.zip" target="">Mirror</a><br>
-OptiFine_1.4.0_HD_U_A1: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.0_HD_U_A1.zip) <a href="https://optifine.net/adloadx?f=OptiFine_1.4.0_HD_U_A1.zip" target="">Mirror</a>
+OptiFine_1.4.0_HD_U_A3: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.0_HD_U_A3.zip)\
+OptiFine_1.4.0_HD_U_A1: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.0_HD_U_A1.zip)
 
 # Minecraft 1.3.2
 
-<span style="font-size:18px">OptiFine Ultra 1.3.2</span></strong><br>
-Download OptiFine 1.3.2_HD_U_B4</strong> (compatible with Forge #305, fixed Zoom not to activate in menu and chat, fixed bed breaking animation, extreme render distance inactive): [Download](https://optifined.net/adloadx.php?f=OptiFine_1.3.2_HD_U_B4.zip) </strong><a href="https://optifine.net/adload.php?f=OptiFine_1.3.2_HD_U_B4.zip" target="">mirror</a> (12.10.2012)<br>
-Download OptiFine 1.3.2_HD_U_B3</strong> (compatible with Forge #225, some bugfixes, Extreme Render Distance still inactive): [Download](https://optifined.net/adloadx.php?f=OptiFine_1.3.2_HD_U_B3.zip) </strong><a href="https://optifine.net/adload.php?f=OptiFine_1.3.2_HD_U_B3.zip" target="">mirror</a> (23.08.2012)<br>
-Download OptiFine 1.3.2_HD_U_B2</strong> (fixed: RandomMobs changing skins, handheld items with Forge, handheld watch/compass with AA/AF, CTM check by ID and metadata, CTM symmetry = all, CTM and sideways logs, Forge compatibility, right-aligned HD fonts, VSync; known problems: Extreme Render Distance inactive, not compatible with Forge): [Download](https://optifine.net/adloadx.php?f=OptiFine_1.3.2_HD_U_B2.zip) </strong><a href="https://optifine.net/adload.php?f=OptiFine_1.3.2_HD_U_B2.zip" target="">mirror</a> (18.08.2012)<br>
-Download OptiFine 1.3.2_HD_U_B1</strong> (fixed: handheld watch/compass with AA/AF, Forge handheld items with ID &gt; 256, CTM check by ID and metadata, CTM symmetry = all, CTM and sideways logs, Forge compatibility, right-aligned HD fonts, VSync, known problems: Extreme Render Distance inactive): [Download](https://optifine.net/adloadx.php?f=OptiFine_1.3.2_HD_U_B1.zip) </strong><a href="https://optifine.net/adload.php?f=OptiFine_1.3.2_HD_U_B1.zip" target="">mirror</a>(18.08.2012)<br>
+Download OptiFine 1.3.2_HD_U_B4: [Download](https://optifined.net/adloadx.php?f=OptiFine_1.3.2_HD_U_B4.zip)\
+Download OptiFine 1.3.2_HD_U_B3: [Download](https://optifined.net/adloadx.php?f=OptiFine_1.3.2_HD_U_B3.zip)\
+Download OptiFine 1.3.2_HD_U_B2: [Download](https://optifine.net/adloadx.php?f=OptiFine_1.3.2_HD_U_B2.zip)\
+Download OptiFine 1.3.2_HD_U_B1: [Download](https://optifine.net/adloadx.php?f=OptiFine_1.3.2_HD_U_B1.zip)
+
+## This is where the file starts to break down... Good luck.
+
 <span style="font-size:16px"><font style="color:#008000">Preview </font>OptiFine HD A3 <font style="color:#800080">Ultra</font> for Minecraft 1.3.2</span> (fixed: handheld watch/compass with AA/AF, Forge handheld items with ID &gt; 256, CTM check by ID and metadata, CTM symmetry = all, CTM and sideways logs, Forge compatibility, right-aligned HD fonts, VSync): [Download](https://optifine.net/adloadx.php?f=OptiFine_1.3.2_HD_U_A3.zip) </strong><a href="https://optifine.net/adload.php?f=OptiFine_1.3.2_HD_U_A3.zip" target="">mirror</a><br>
 <span style="font-size:16px"><font style="color:#008000">Preview </font>OptiFine HD A2 <font style="color:#800080">Ultra</font> for Minecraft 1.3.2</span> (fixed: HD fonts, texture pack switch; known problems: Multi-Core may need a restart after a texturepack change): [Download](https://optifine.net/adloadx.php?f=OptiFine_1.3.2_HD_U_A2.zip) </strong><a href="https://optifine.net/adload.php?f=OptiFine_1.3.2_HD_U_A2.zip" target="">mirror</a><br>
 <span style="font-size:16px"><font style="color:#008000">Preview </font>OptiFine HD A1 <font style="color:#800080">Ultra</font> for Minecraft 1.3.2</span> (known problems: HD fonts not working, texture pack switch may crash): [Download](https://optifine.net/adloadx.php?f=OptiFine_1.3.2_HD_U_A1.zip) </strong><a href="https://optifine.net/adload.php?f=OptiFine_1.3.2_HD_U_A1.zip" target="">mirror</a><br>
@@ -450,14 +484,10 @@ Download OptiFine 1.0.0_HD_AA_B2</strong> (fixed Forge support, fixed clouds and
 
 # Minecraft Beta 1.9
 
-<span style="font-size:18px">OptiFine Standard 1.9</span><br>
-<br>
 OptiFine_1.9.p5.HD_D2: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.9.p5.HD_D2.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFine_1.9.p5.HD_D2.zip" target="">Mirror</a></strong></div>
-<p> <br>
-</strong></strong></p>
+
 # Minecraft Beta 1.8.1
 
-<span style="font-size:18px">OptiFine Standard 1.8.1</span><br>
 OptiFine_1.8.1_HD_D2: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_D2.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_D2.zip" target="">Mirror</a><br>
 OptiFine_1.8.1_HD_D: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_D.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_D.zip" target="">Mirror</a><br>
 OptiFine_1.8.1_HD_C: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_C.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_C.zip" target="">Mirror</a><br>
@@ -466,8 +496,6 @@ OptiFine_1.8.1_HD_C1: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.
 OptiFine_1.8.1_HD_B1: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_B1.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_B1.zip" target="">Mirror</a><br>
 OptiFine_1.8.1_HD_B: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_B.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_B.zip" target="">Mirror</a><br>
 OptiFine_1.8.1_HD_A: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_A.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_A.zip" target="">Mirror</a><br>
-<br>
-<span style="font-size:18px">OptiFine Smooth 1.8.1</span><br>
 OptiFine_1.8.1_HD_S_D2: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_S_D2.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_S_D2.zip" target="">Mirror</a><br>
 OptiFine_1.8.1_HD_S_D: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_S_D.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_S_D.zip" target="">Mirror</a><br>
 OptiFine_1.8.1_HD_S_C2: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_S_C2.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_S_C2.zip" target="">Mirror</a><br>
@@ -476,8 +504,6 @@ OptiFine_1.8.1_HD_S_C: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1
 OptiFine_1.8.1_HD_S_B1: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_S_B1.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_S_B1.zip" target="">Mirror</a><br>
 OptiFine_1.8.1_HD_S_B: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_S_B.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_S_B.zip" target="">Mirror</a><br>
 OptiFine_1.8.1_HD_S_A: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_S_A.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_S_A.zip" target="">Mirror</a><br>
-<br>
-<span style="font-size:18px">OptiFine Multi-Core 1.8.1</span><br>
 OptiFine_1.8.1_HD_MT_D2: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_MT_D2.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_MT_D2.zip" target="">Mirror</a><br>
 OptiFine_1.8.1_HD_MT_D: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_MT_D.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_MT_D.zip" target="">Mirror</a><br>
 OptiFine_1.8.1_HD_MT_C2: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_MT_C2.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_MT_C2.zip" target="">Mirror</a><br>
@@ -486,8 +512,6 @@ OptiFine_1.8.1_HD_MT_A3: [Download](https://optifine.net/adloadx?f=beta_OptiFine
 OptiFine_1.8.1_HD_MT_A2: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_MT_A2.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_MT_A2.zip" target="">Mirror</a><br>
 OptiFine_1.8.1_HD_MT_A1: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_MT_A1.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_MT_A1.zip" target="">Mirror</a><br>
 OptiFine_1.8.1_HD_MT_A: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_MT_A.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_MT_A.zip" target="">Mirror</a><br>
-<br>
-<span style="font-size:18px">OptiFine AA 1.8.1</span><br>
 OptiFine_1.8.1_HD_AA_D2: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_AA_D2.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_AA_D2.zip" target="">Mirror</a><br>
 OptiFine_1.8.1_HD_AA_D1: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_AA_D1.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_AA_D1.zip" target="">Mirror</a><br>
 <br>
@@ -585,86 +609,61 @@ Download LagSpikeOfDeath 1.7.2</strong> (included in OptiFog and Optimine): [Dow
 <p> </strong></strong></p>
 # Minecraft Beta 1.6.6
 
-OptiFog_1.6.6: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.6.6.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFog_1.6.6.zip" target="">Mirror</a><br>
-OptiFog_1.6.6_F_HD: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.6.6_F_HD.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFog_1.6.6_F_HD.zip" target="">Mirror</a><br>
-OptiFog_1.6.6_C: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.6.6_C.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFog_1.6.6_C.zip" target="">Mirror</a><br>
-OptiFog_Optimine_1.6.6: [Download](https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.6.6.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.6.6.zip" target="">Mirror</a><br>
-OptiFog_Optimine_1.6.6_F_HD: [Download](https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.6.6_F_HD.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.6.6_F_HD.zip" target="">Mirror</a><br>
-OptiFog_Optimine_1.6.6_E_HD: [Download](https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.6.6_E_HD.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.6.6_E_HD.zip" target="">Mirror</a><br>
-OptiFog_Optimine_1.6.6_E1_HD: [Download](https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.6.6_E1_HD.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.6.6_E1_HD.zip" target="">Mirror</a><br>
-OptiFog_Optimine_1.6.6_D_HD: [Download](https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.6.6_D_HD.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.6.6_D_HD.zip" target="">Mirror</a><br>
-OptiFog_Optimine_1.6.6_D1_HD: [Download](https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.6.6_D1_HD.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.6.6_D1_HD.zip" target="">Mirror</a><br>
-OptiFog_Optimine_1.6.6_C: [Download](https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.6.6_C.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.6.6_C.zip" target="">Mirror</a><br>
-OptiFog_Optimine_1.6.6_B: [Download](https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.6.6_B.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.6.6_B.zip" target="">Mirror</a><br>
-OptiFog_Optimine_1.6.6_A: [Download](https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.6.6_A.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.6.6_A.zip" target="">Mirror</a><br>
-Optimine_1.6.6: [Download](https://optifine.net/adloadx?f=beta_Optimine_1.6.6.zip) <a href="https://optifine.net/adloadx?f=beta_Optimine_1.6.6.zip" target="">Mirror</a><br>
-Optimine_1.6.6_B: [Download](https://optifine.net/adloadx?f=beta_Optimine_1.6.6_B.zip) <a href="https://optifine.net/adloadx?f=beta_Optimine_1.6.6_B.zip" target="">Mirror</a><br>
-Optimine_1.6.6_A: [Download](https://optifine.net/adloadx?f=beta_Optimine_1.6.6_A.zip) <a href="https://optifine.net/adloadx?f=beta_Optimine_1.6.6_A.zip" target="">Mirror</a><br>
-<br>
-Optimine_1.6.5: [Download](https://optifine.net/adloadx?f=beta_Optimine_1.6.5.zip) <a href="https://optifine.net/adloadx?f=beta_Optimine_1.6.5.zip" target="">Mirror</a><br>
-Optimine_1.6.5_A: [Download](https://optifine.net/adloadx?f=beta_Optimine_1.6.5_A.zip) <a href="https://optifine.net/adloadx?f=beta_Optimine_1.6.5_A.zip" target="">Mirror</a><br>
-OptiFog_1.6.5: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.6.5.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFog_1.6.5.zip" target="">Mirror</a><br>
-<br>
-Vote results "Best FPS 1.6.6":</strong><br>
-83% - OptiFog + Optimine = 1135 votes<br>
-4% - OptiFog = 52 votes<br>
-5% - Optimine A = 71 votes<br>
-3% - Optimine (classic) = 33 votes<br>
-5% - Other (Vanilla) = 74 votes<br>
-<br>
-<span style="font-size:18px">OptiFog 1.6.6_F_HD</span><br>
-(supports HD textures, MCPatcher not needed)<br>
-Download OptiFog + Optimine 1.6.6_F_HD (fixed LagSpikeOfDeath, added BetterGrass, fixed ModLoader textures): [Download](http://adf.ly/1qLvc), <a href="http://adf.ly/1qLwe" target="">Download 2</a><br>
-Download OptiFog + Optimine 1.6.6_E1_HD (fixed HD water and lava, configurable Smooth Lighting, fast Debug Info): [Download](http://adf.ly/1pbW7), <a href="http://adf.ly/1pbZD" target="">Download 2</a><br>
-Download OptiFog + Optimine 1.6.6_D_HD (HD textures, MCPatcher not needed): [Download](http://adf.ly/1l1b8), <a href="http://adf.ly/1l1bY" target="">Download 2</a><br>
-Download OptiFog + Optimine 1.6.6_C (configurable clouds height, trees, grass, rain): [Download](http://adf.ly/1j25W), <a href="http://adf.ly/1j26T" target="">Download 2</a><br>
-Download OptiFog + Optimine 1.6.6_B (fixed Nether light levels): [Download](http://adf.ly/1idza), <a href="http://adf.ly/1ie16" target="">Download 2</a><br>
-Download OptiFog + Optimine 1.6.6_A (Java 1.5, Mac OSX): [Download](http://adf.ly/1ie2u)<br>
-Download OptiFog + Optimine 1.6.6 (best FPS): [Download](http://adf.ly/1eqmY), <a href="http://adf.ly/1fOwR" target="">Download 2</a>, <a href="http://adf.ly/1fWss" target="">Download 3</a><br>
-Download OptiFog 1.6.6_F_HD (HD textures, BetterGrass, better SmoothLighting and more): [Download](http://adf.ly/1qMzQ), <a href="http://adf.ly/1qN0E" target="">Download 2</a></strong><br>
-Download OptiFog 1.6.6_C (clouds height, trees, grass, rain, fixed light levels): [Download](http://adf.ly/1j2e9), <a href="http://adf.ly/1j2h5" target="">Download 2</a><br>
-Download OptiFog 1.6.6 (similar to 1.5_01_F): [Download](http://adf.ly/1epq5), <a href="http://adf.ly/1fPAb" target="">Download 2</a><br>
-Download OptiFog 1.6.5 (older, similar to 1.5_01_F): [Download](http://adf.ly/1ely7" target="">Download</a><br>
-<br>
-<span style="font-size:18px">Optimine 1.6.6_B</span><br>
-This mod improves FPS, especially for slower computers. Gains of 20FPS and more are common.<br>
-<br>
-Download Optimine 1.6.6_B</strong> (Java 1.5, Mac OSX): [Download](http://adf.ly/1ie3p), <a href="http://adf.ly/1ie4K" target="">Download 2</a></strong><br>
-Download Optimine 1.6.6_A (a bit faster, no rotate lag): [Download](http://adf.ly/1epro), <a href="http://adf.ly/1fOyi" target="">Download 2</a>, <a href="http://adf.ly/1fWug" target="">Download 3</a><br>
-Download Optimine 1.6.6 (classic, port of 1.3): [Download](http://adf.ly/1eptG), <a href="http://adf.ly/1fPF8" target="">Download 2</a><br>
-Download Optimine 1.6.5_A (older, a bit faster, no rotate lag): [Download](http://adf.ly/1eEnm" target="">Download</a><br>
-Download Optimine 1.6.5 (older, classic, port of 1.3): [Download](http://adf.ly/1eDDn" target="">Download</a><br>
-<br>
-<span style="font-size:18px">Fix for the Lag Spikes of Death 1.6.6</span><br>
-(included in OptiFog_1.6.6_F_HD and later)<br>
-This fixes the annoying Lag Spikes of Death, for more info: [Download](http://www.minecraftforum.net/topic/358054-minecraft-lag-spike-of-death-and-other-gamebreaking-bugs/" target="">http://www.minecraft...ebreaking-bugs/</a><br>
-<br>
-Download LagSpikesOfDeath_Fix 1.6.6</strong> (compatible with OptiFog and Optimine): [Download](http://adf.ly/1nvWV), <a href="http://adf.ly/1nvbp" target="">Download 2</a></strong><br>
-<br>
-The Optimine classic is a port of Optimine 1.3 by Scaevolus.</div>
-<p> </strong></strong></p>
+OptiFog_1.6.6: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.6.6.zip)
+OptiFog_1.6.6_F_HD: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.6.6_F_HD.zip)
+OptiFog_1.6.6_C: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.6.6_C.zip)
+OptiFog_Optimine_1.6.6: [Download](https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.6.6.zip)
+OptiFog_Optimine_1.6.6_F_HD: [Download](https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.6.6_F_HD.zip)
+OptiFog_Optimine_1.6.6_E_HD: [Download](https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.6.6_E_HD.zip)
+OptiFog_Optimine_1.6.6_E1_HD: [Download](https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.6.6_E1_HD.zip)
+OptiFog_Optimine_1.6.6_D_HD: [Download](https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.6.6_D_HD.zip)
+OptiFog_Optimine_1.6.6_D1_HD: [Download](https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.6.6_D1_HD.zip)
+OptiFog_Optimine_1.6.6_C: [Download](https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.6.6_C.zip)
+OptiFog_Optimine_1.6.6_B: [Download](https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.6.6_B.zip)
+OptiFog_Optimine_1.6.6_A: [Download](https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.6.6_A.zip)
+Optimine_1.6.6: [Download](https://optifine.net/adloadx?f=beta_Optimine_1.6.6.zip)
+Optimine_1.6.6_B: [Download](https://optifine.net/adloadx?f=beta_Optimine_1.6.6_B.zip)
+Optimine_1.6.6_A: [Download](https://optifine.net/adloadx?f=beta_Optimine_1.6.6_A.zip)
+Optimine_1.6.5: [Download](https://optifine.net/adloadx?f=beta_Optimine_1.6.5.zip)
+Optimine_1.6.5_A: [Download](https://optifine.net/adloadx?f=beta_Optimine_1.6.5_A.zip)
+OptiFog_1.6.5: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.6.5.zip)
+
+Download OptiFog + Optimine 1.6.6_F_HD (fixed LagSpikeOfDeath, added BetterGrass, fixed ModLoader textures): [Download](http://adf.ly/1qLvc)
+Download OptiFog + Optimine 1.6.6_E1_HD (fixed HD water and lava, configurable Smooth Lighting, fast Debug Info): [Download](http://adf.ly/1pbW7)
+Download OptiFog + Optimine 1.6.6_D_HD (HD textures, MCPatcher not needed): [Download](http://adf.ly/1l1b8)
+Download OptiFog + Optimine 1.6.6_C (configurable clouds height, trees, grass, rain): [Download](http://adf.ly/1j25W)
+Download OptiFog + Optimine 1.6.6_B (fixed Nether light levels): [Download](http://adf.ly/1idza)
+Download OptiFog + Optimine 1.6.6_A (Java 1.5, Mac OSX): [Download](http://adf.ly/1ie2u)
+Download OptiFog + Optimine 1.6.6 (best FPS): [Download](http://adf.ly/1eqmY)
+Download OptiFog 1.6.6_F_HD (HD textures, BetterGrass, better SmoothLighting and more): [Download](http://adf.ly/1qMzQ)
+Download OptiFog 1.6.6_C (clouds height, trees, grass, rain, fixed light levels): [Download](http://adf.ly/1j2e9)
+Download OptiFog 1.6.6 (similar to 1.5_01_F): [Download](http://adf.ly/1epq5)
+Download OptiFog 1.6.5 (older, similar to 1.5_01_F): [Download](http://adf.ly/1ely7)
+
+Download Optimine 1.6.6_B (Java 1.5, Mac OSX): [Download](http://adf.ly/1ie3p)
+Download Optimine 1.6.6_A (a bit faster, no rotate lag): [Download](http://adf.ly/1epro)
+Download Optimine 1.6.6 (classic, port of 1.3): [Download](http://adf.ly/1eptG)
+Download Optimine 1.6.5_A (older, a bit faster, no rotate lag): [Download](http://adf.ly/1eEnm)
+Download Optimine 1.6.5 (older, classic, port of 1.3): [Download](http://adf.ly/1eDDn)
+
+Fix for Lag Spikes of Death, for more info: [Forum post](http://www.minecraftforum.net/topic/358054-minecraft-lag-spike-of-death-and-other-gamebreaking-bugs/)
+LagSpikesOfDeath_Fix 1.6.6</strong> (compatible with OptiFog and Optimine): [Download](http://adf.ly/1nvWV)
+
 # Minecraft Beta 1.5
 
-OptiFog_1.5_01_F: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.5_01_F.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFog_1.5_01_F.zip" target="">Mirror</a><br>
-OptiFog_1.5_01_F_om: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.5_01_F_om.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFog_1.5_01_F_om.zip" target="">Mirror</a><br>
-OptiFog_1.5_01_E: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.5_01_E.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFog_1.5_01_E.zip" target="">Mirror</a><br>
-OptiFog_1.5_01_E_om: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.5_01_E_om.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFog_1.5_01_E_om.zip" target="">Mirror</a><br>
-OptiFog_1.5_01_D_om: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.5_01_D_om.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFog_1.5_01_D_om.zip" target="">Mirror</a><br>
-OptiFog_1.5_01_C: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.5_01_C.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFog_1.5_01_C.zip" target="">Mirror</a><br>
-OptiFog_1.5_01_B: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.5_01_B.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFog_1.5_01_B.zip" target="">Mirror</a><br>
-OptiFog_1.5_01_A: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.5_01_A.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFog_1.5_01_A.zip" target="">Mirror</a><br>
-OptiFog_1.5_01: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.5_01.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFog_1.5_01.zip" target="">Mirror</a><br>
-optimine-1.5_01v2: [Download](https://optifine.net/adloadx?f=beta_optimine-1.5_01v2.zip) <a href="https://optifine.net/adloadx?f=beta_optimine-1.5_01v2.zip" target="">Mirror</a><br>
-<br>
-Vote results "Best FPS 1.5_01":</strong><br>
-80% - OptiFog_1.5_01_E_om + Optimine = 153 votes<br>
-6% - OptiFog_1.5_01_E_om = 11 votes<br>
-8% - OptiFog_1.5_01_E = 16 votes<br>
-6% - Other (Vanilla) = 11 votes<br>
-<br>
-<span style="font-size:18px">OptiFog 1.5_01_F</span><br>
-(ModLoader and Optimine compatible, added Smooth FPS, Brightness and VSync, fixed flickering blue blocks).</strong><br>
-<br>
+OptiFog_1.5_01_F: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.5_01_F.zip)
+OptiFog_1.5_01_F_om: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.5_01_F_om.zip)
+OptiFog_1.5_01_E: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.5_01_E.zip)
+OptiFog_1.5_01_E_om: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.5_01_E_om.zip)
+OptiFog_1.5_01_D_om: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.5_01_D_om.zip)
+OptiFog_1.5_01_C: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.5_01_C.zip)
+OptiFog_1.5_01_B: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.5_01_B.zip)
+OptiFog_1.5_01_A: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.5_01_A.zip)
+OptiFog_1.5_01: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.5_01.zip)
+optimine-1.5_01v2: [Download](https://optifine.net/adloadx?f=beta_optimine-1.5_01v2.zip)
+
+# OptiFog 1.5_01_F
+(ModLoader and Optimine compatible, added Smooth FPS, Brightness and VSync, fixed flickering blue blocks).
 Changes (from 1.4_01):</strong><br>
 - General speedup 10-20%<br>
 - Occlusion Culling without</strong> visual artifacts (Advanced OpenGL)<br>
@@ -762,44 +761,42 @@ Added dynamic chunk update rate. When the player is staying still it uses fast u
 <span style="font-size:9px">Standalone versions (1.4_01):</span></strong><br>
 <br>
 <font style="color:#bf0000">OptiFog Full (includes classic, experimental OC and mipmap)</strong></font><br>
-Download: [Download](http://adf.ly/1HnEF" target="">adf.ly</a>, <a href="http://www.2shared.com/file/Dsxi6IFU/OptiFog_14_01_Full_D.html" target="">direct</a></strong><br>
-Alternative download: [Download](http://adf.ly/1HnMX" target="">adf.ly</a>, <a href="http://www.mediafire.com/?xed24lxxiwdznvv" target="">direct</a></strong><br>
+Download: [Download](http://adf.ly/1HnEF), <a href="http://www.2shared.com/file/Dsxi6IFU/OptiFog_14_01_Full_D.html" target="">direct</a></strong><br>
+Alternative download: [Download](http://adf.ly/1HnMX"), <a href="http://www.mediafire.com/?xed24lxxiwdznvv" target="">direct</a></strong><br>
 <br>
 OptiFog (classic)<br>
-Download: [Download](http://www.2shared.com/file/ARdFtvLu/OptiFog_14_01_B.html" target="">http://www.2shared.c...og_14_01_B.html</a><br>
-Alternative download: [Download](http://www.mediafire.com/?bvi1zxlqrussamo" target="">http://www.mediafire...bvi1zxlqrussamo</a><br>
+Download: [Download](http://www.2shared.com/file/ARdFtvLu/OptiFog_14_01_B.html)<br>
+Alternative download: [Download](http://www.mediafire.com/?bvi1zxlqrussamo)<br>
 <br>
 OptiFog Experimental (OC)<br>
-Download: [Download](http://www.2shared.com/file/J_9H4d29/OptiFog_14_01_Exp_B.html" target="">http://www.2shared.c...4_01_Exp_B.html</a><br>
-Alternative download: [Download](http://www.mediafire.com/?32c4u943p65340b" target="">http://www.mediafire...32c4u943p65340b</a><br>
+Download: [Download](http://www.2shared.com/file/J_9H4d29/OptiFog_14_01_Exp_B.html)<br>
+Alternative download: [Download](http://www.mediafire.com/?32c4u943p65340b")<br>
 <br>
 OptiFog Experimental MM (OC + mipmap)<br>
-Download: [Download](http://www.2shared.com/file/r68choUH/OptiFog_14_01_Exp_mm.html" target="">http://www.2shared.c..._01_Exp_mm.html</a><br>
-Alternative download: [Download](http://www.mediafire.com/?3g809bbml2bls8i" target="">http://www.mediafire...3g809bbml2bls8i</a><br>
+Download: [Download](http://www.2shared.com/file/r68choUH/OptiFog_14_01_Exp_mm.html)<br>
+Alternative download: [Download](http://www.mediafire.com/?3g809bbml2bls8i)<br>
 <br>
 <span style="font-size:9px">Optimine compatible versions (1.4_01)</span></strong><br>
 These will ONLY work if installed after Optimine 1.4_01. Not to be used standalone.<br>
 <font style="color:#bf8000">The Nether bug is fixed</strong></font><br>
 <br>
 <font style="color:#00b000">OptiFog (classic)</strong></font><br>
-Download: [Download](http://www.2shared.com/file/IZ3CDSeh/OptiFog_14_01_Optimine_B.html" target="">http://www.2shared.c...Optimine_B.html</a></strong><br>
-Alternative download: [Download](http://www.mediafire.com/?aaxt7uka26qtcxa" target="">http://www.mediafire...aaxt7uka26qtcxa</a></strong><br>
+Download: [Download](http://www.2shared.com/file/IZ3CDSeh/OptiFog_14_01_Optimine_B.html)<br>
+Alternative download: [Download](http://www.mediafire.com/?aaxt7uka26qtcxa)<br>
 <br>
 <font style="color:#00b000">OptiFog Experimental (OC)</strong></font><br>
-Download: [Download](http://www.2shared.com/file/aMoekIEI/OptiFog_14_01_Exp_Optimine_B.html" target="">http://www.2shared.c...Optimine_B.html</a></strong><br>
-Alternative download: [Download](http://www.mediafire.com/?asga72fbcv3a551" target="">http://www.mediafire...asga72fbcv3a551</a></strong><br>
-<br>
-OptiFog_1.4_01: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.4_01.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFog_1.4_01.zip" target="">Mirror</a><br>
-OptiFog_1.4_01_Optimine: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.4_01_Optimine.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFog_1.4_01_Optimine.zip" target="">Mirror</a><br>
-OptiFog_1.4_01_Optimine_B: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.4_01_Optimine_B.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFog_1.4_01_Optimine_B.zip" target="">Mirror</a><br>
-OptiFog_1.4_01_Full: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.4_01_Full.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFog_1.4_01_Full.zip" target="">Mirror</a><br>
-OptiFog_1.4_01_Full_E: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.4_01_Full_E.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFog_1.4_01_Full_E.zip" target="">Mirror</a><br>
-OptiFog_1.4_01_Full_D: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.4_01_Full_D.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFog_1.4_01_Full_D.zip" target="">Mirror</a><br>
-OptiFog_1.4_01_Full_C: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.4_01_Full_C.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFog_1.4_01_Full_C.zip" target="">Mirror</a><br>
-OptiFog_1.4_01_Full_B: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.4_01_Full_B.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFog_1.4_01_Full_B.zip" target="">Mirror</a><br>
-OptiFog_1.4_01_Exp: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.4_01_Exp.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFog_1.4_01_Exp.zip" target="">Mirror</a><br>
-OptiFog_1.4_01_Exp_Optimine: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.4_01_Exp_Optimine.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFog_1.4_01_Exp_Optimine.zip" target="">Mirror</a><br>
-OptiFog_1.4_01_Exp_Optimine_B: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.4_01_Exp_Optimine_B.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFog_1.4_01_Exp_Optimine_B.zip" target="">Mirror</a><br>
-OptiFog_1.4_01_Exp_B: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.4_01_Exp_B.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFog_1.4_01_Exp_B.zip" target="">Mirror</a><br>
-OptiFog_1.4_01_B: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.4_01_B.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFog_1.4_01_B.zip" target="">Mirror</a></div>
-</div>
+Download: [Download](http://www.2shared.com/file/aMoekIEI/OptiFog_14_01_Exp_Optimine_B.html)<br>
+Alternative download: [Download](http://www.mediafire.com/?asga72fbcv3a551)
+OptiFog_1.4_01: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.4_01.zip)
+OptiFog_1.4_01_Optimine: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.4_01_Optimine.zip)
+OptiFog_1.4_01_Optimine_B: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.4_01_Optimine_B.zip)
+OptiFog_1.4_01_Full: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.4_01_Full.zip)
+OptiFog_1.4_01_Full_E: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.4_01_Full_E.zip)
+OptiFog_1.4_01_Full_D: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.4_01_Full_D.zip)
+OptiFog_1.4_01_Full_C: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.4_01_Full_C.zip)
+OptiFog_1.4_01_Full_B: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.4_01_Full_B.zip)
+OptiFog_1.4_01_Exp: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.4_01_Exp.zip)
+OptiFog_1.4_01_Exp_Optimine: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.4_01_Exp_Optimine.zip)
+OptiFog_1.4_01_Exp_Optimine_B: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.4_01_Exp_Optimine_B.zip)
+OptiFog_1.4_01_Exp_B: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.4_01_Exp_B.zip)
+OptiFog_1.4_01_B: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.4_01_B.zip)
