@@ -522,43 +522,16 @@ optimine-1.5_01v2: [Download](https://optifine.net/adloadx?f=beta_optimine-1.5_0
 
 # Minecraft Beta 1.4
 
-<font style="color:#bf0000">OptiFog Full (includes classic, experimental OC and mipmap)</strong></font><br>
-Download: [Download](http://adf.ly/1HnEF), <a href="http://www.2shared.com/file/Dsxi6IFU/OptiFog_14_01_Full_D.html" target="">direct</a></strong><br>
-Alternative download: [Download](http://adf.ly/1HnMX"), <a href="http://www.mediafire.com/?xed24lxxiwdznvv" target="">direct</a></strong><br>
-<br>
-OptiFog (classic)<br>
-Download: [Download](http://www.2shared.com/file/ARdFtvLu/OptiFog_14_01_B.html)<br>
-Alternative download: [Download](http://www.mediafire.com/?bvi1zxlqrussamo)<br>
-<br>
-OptiFog Experimental (OC)<br>
-Download: [Download](http://www.2shared.com/file/J_9H4d29/OptiFog_14_01_Exp_B.html)<br>
-Alternative download: [Download](http://www.mediafire.com/?32c4u943p65340b")<br>
-<br>
-OptiFog Experimental MM (OC + mipmap)<br>
-Download: [Download](http://www.2shared.com/file/r68choUH/OptiFog_14_01_Exp_mm.html)<br>
-Alternative download: [Download](http://www.mediafire.com/?3g809bbml2bls8i)<br>
-<br>
-<span style="font-size:9px">Optimine compatible versions (1.4_01)</span></strong><br>
-These will ONLY work if installed after Optimine 1.4_01. Not to be used standalone.<br>
-<font style="color:#bf8000">The Nether bug is fixed</strong></font><br>
-<br>
-<font style="color:#00b000">OptiFog (classic)</strong></font><br>
-Download: [Download](http://www.2shared.com/file/IZ3CDSeh/OptiFog_14_01_Optimine_B.html)<br>
-Alternative download: [Download](http://www.mediafire.com/?aaxt7uka26qtcxa)<br>
-<br>
-<font style="color:#00b000">OptiFog Experimental (OC)</strong></font><br>
-Download: [Download](http://www.2shared.com/file/aMoekIEI/OptiFog_14_01_Exp_Optimine_B.html)<br>
-Alternative download: [Download](http://www.mediafire.com/?asga72fbcv3a551)
-OptiFog_1.4_01: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.4_01.zip)
-OptiFog_1.4_01_Optimine: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.4_01_Optimine.zip)
-OptiFog_1.4_01_Optimine_B: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.4_01_Optimine_B.zip)
-OptiFog_1.4_01_Full: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.4_01_Full.zip)
-OptiFog_1.4_01_Full_E: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.4_01_Full_E.zip)
-OptiFog_1.4_01_Full_D: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.4_01_Full_D.zip)
-OptiFog_1.4_01_Full_C: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.4_01_Full_C.zip)
-OptiFog_1.4_01_Full_B: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.4_01_Full_B.zip)
-OptiFog_1.4_01_Exp: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.4_01_Exp.zip)
-OptiFog_1.4_01_Exp_Optimine: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.4_01_Exp_Optimine.zip)
-OptiFog_1.4_01_Exp_Optimine_B: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.4_01_Exp_Optimine_B.zip)
-OptiFog_1.4_01_Exp_B: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.4_01_Exp_B.zip)
+OptiFog_1.4_01: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.4_01.zip)\
+OptiFog_1.4_01_Optimine: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.4_01_Optimine.zip)\
+OptiFog_1.4_01_Optimine_B: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.4_01_Optimine_B.zip)\
+OptiFog_1.4_01_Full: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.4_01_Full.zip)\
+OptiFog_1.4_01_Full_E: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.4_01_Full_E.zip)\
+OptiFog_1.4_01_Full_D: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.4_01_Full_D.zip)\
+OptiFog_1.4_01_Full_C: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.4_01_Full_C.zip)\
+OptiFog_1.4_01_Full_B: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.4_01_Full_B.zip)\
+OptiFog_1.4_01_Exp: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.4_01_Exp.zip)\
+OptiFog_1.4_01_Exp_Optimine: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.4_01_Exp_Optimine.zip)\
+OptiFog_1.4_01_Exp_Optimine_B: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.4_01_Exp_Optimine_B.zip)\
+OptiFog_1.4_01_Exp_B: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.4_01_Exp_B.zip)\
 OptiFog_1.4_01_B: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.4_01_B.zip)
