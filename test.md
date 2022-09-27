@@ -277,175 +277,102 @@ OptiFine_1.4.0_HD_U_A1: [Download](https://optifine.net/adloadx?f=OptiFine_1.4.0
 
 # Minecraft 1.3.2
 
-Download OptiFine 1.3.2_HD_U_B4: [Download](https://optifined.net/adloadx.php?f=OptiFine_1.3.2_HD_U_B4.zip)\
-Download OptiFine 1.3.2_HD_U_B3: [Download](https://optifined.net/adloadx.php?f=OptiFine_1.3.2_HD_U_B3.zip)\
-Download OptiFine 1.3.2_HD_U_B2: [Download](https://optifine.net/adloadx.php?f=OptiFine_1.3.2_HD_U_B2.zip)\
-Download OptiFine 1.3.2_HD_U_B1: [Download](https://optifine.net/adloadx.php?f=OptiFine_1.3.2_HD_U_B1.zip)
+OptiFine_1.3.2_HD_U_B4: [Download](https://optifined.net/adloadx.php?f=OptiFine_1.3.2_HD_U_B4.zip)\
+OptiFine_1.3.2_HD_U_B3: [Download](https://optifined.net/adloadx.php?f=OptiFine_1.3.2_HD_U_B3.zip)\
+OptiFine_1.3.2_HD_U_B2: [Download](https://optifine.net/adloadx.php?f=OptiFine_1.3.2_HD_U_B2.zip)\
+OptiFine_1.3.2_HD_U_B1: [Download](https://optifine.net/adloadx.php?f=OptiFine_1.3.2_HD_U_B1.zip)\
+OptiFine_1.3.2_HD_U_A3: [Download](https://optifine.net/adloadx.php?f=OptiFine_1.3.2_HD_U_A3.zip)\
+OptiFine_1.3.2_HD_U_A2: [Download](https://optifine.net/adloadx.php?f=OptiFine_1.3.2_HD_U_A2.zip)\
+OptiFine_1.3.2_HD_U_A1: [Download](https://optifine.net/adloadx.php?f=OptiFine_1.3.2_HD_U_A1.zip)\
+OptiFine_1.3.2_HD_B4: [Download](https://optifined.net/adloadx.php?f=OptiFine_1.3.2_HD_B4.zip)\
+OptiFine_1.3.2_HD_B3: [Download](https://optifined.net/adloadx.php?f=OptiFine_1.3.2_HD_B3.zip)\
+OptiFine_1.3.2_HD_B2: [Download](https://optifine.net/adloadx.php?f=OptiFine_1.3.2_HD_B2.zip)\
+OptiFine_1.3.2_L_B2: [Download](https://optifined.net/adloadx.php?f=OptiFine_1.3.2_L_B2.zip)
 
-## This is where the file starts to break down... Good luck.
+# Minecraft 1.3.1
 
-<span style="font-size:16px"><font style="color:#008000">Preview </font>OptiFine HD A3 <font style="color:#800080">Ultra</font> for Minecraft 1.3.2</span> (fixed: handheld watch/compass with AA/AF, Forge handheld items with ID &gt; 256, CTM check by ID and metadata, CTM symmetry = all, CTM and sideways logs, Forge compatibility, right-aligned HD fonts, VSync): [Download](https://optifine.net/adloadx.php?f=OptiFine_1.3.2_HD_U_A3.zip) </strong><a href="https://optifine.net/adload.php?f=OptiFine_1.3.2_HD_U_A3.zip" target="">mirror</a><br>
-<span style="font-size:16px"><font style="color:#008000">Preview </font>OptiFine HD A2 <font style="color:#800080">Ultra</font> for Minecraft 1.3.2</span> (fixed: HD fonts, texture pack switch; known problems: Multi-Core may need a restart after a texturepack change): [Download](https://optifine.net/adloadx.php?f=OptiFine_1.3.2_HD_U_A2.zip) </strong><a href="https://optifine.net/adload.php?f=OptiFine_1.3.2_HD_U_A2.zip" target="">mirror</a><br>
-<span style="font-size:16px"><font style="color:#008000">Preview </font>OptiFine HD A1 <font style="color:#800080">Ultra</font> for Minecraft 1.3.2</span> (known problems: HD fonts not working, texture pack switch may crash): [Download](https://optifine.net/adloadx.php?f=OptiFine_1.3.2_HD_U_A1.zip) </strong><a href="https://optifine.net/adload.php?f=OptiFine_1.3.2_HD_U_A1.zip" target="">mirror</a><br>
-Download OptiFine 1.3.1_HD_U_B1</strong> (ported to 1.3.1, known problems: Extreme Render Distance inactive): [Download](https://optifine.net/adloadx.php?f=OptiFine_1.3.1_HD_U_B1.zip) </strong><a href="https://optifine.net/adload.php?f=OptiFine_1.3.1_HD_U_B1.zip" target="">mirror</a> (09.08.2012)<br>
-<span style="font-size:16px"><font style="color:#006400">Preview</font> OptiFine HD A3 <font style="color:#800000">Ultra</font> (Smooth + Multi-Core + AA) for Minecraft <font style="color:#b22222">1.3.1</font></span>:(fixed memory leak, known problems: "View Distance: Extreme" not working, CTM and sideways logs) : [Download](https://optifine.net/adloadx.php?f=OptiFine_1.3.1_HD_U_A3.zip) <a href="https://optifine.net/adload.php?f=OptiFine_1.3.1_HD_U_A3.zip" target="">mirror</a><br>
-<span style="font-size:16px"><font style="color:#006400">Preview</font> OptiFine HD A2 <font style="color:#800000">Ultra</font> (Smooth + Multi-Core + AA) for Minecraft <font style="color:#b22222">1.3.1</font></span>:(fixed most A1 problems, known problems: "View Distance: Extreme" not working, CTM and sideways logs) : [Download](https://optifine.net/adloadx.php?f=OptiFine_1.3.1_HD_U_A2.zip) <a href="https://optifine.net/adload.php?f=OptiFine_1.3.1_HD_U_A2.zip" target="">mirror</a><br>
-<span style="font-size:16px"><font style="color:#006400">Preview</font> OptiFine HD A1 <font style="color:#800000">Ultra</font> (Smooth + Multi-Core + AA) for Minecraft <font style="color:#b22222">1.3.1</font></span>:(known problems: "Time: Day Only" not working, "Chunk Loading: Multi-Core" will crash if not supported by the GPU, "AA + AF + Multi-Core" may cause blocks not to render, "View Distance: Extreme" not working : [Download](https://optifine.net/adloadx.php?f=OptiFine_1.3.1_HD_U_A1.zip) <a href="https://optifine.net/adload.php?f=OptiFine_1.3.1_HD_U_A1.zip" target="">mirror</a><br>
-<br>
-<span style="font-size:18px">OptiFine Standard 1.3.2</span></strong><br>
-<br>
-Download OptiFine 1.3.2_HD_B4</strong> (compatible with Forge #305, fixed Zoom not to activate in menu and chat, fixed bed breaking animation, extreme render distance inactive): [Download](https://optifined.net/adloadx.php?f=OptiFine_1.3.2_HD_B4.zip) </strong><a href="https://optifine.net/adload.php?f=OptiFine_1.3.2_HD_B4.zip" target="">mirror</a> (12.10.2012)<br>
-Download OptiFine 1.3.2_HD_B3</strong> (compatible with Forge #225, some bugfixes, Extreme Render Distance still inactive): [Download](https://optifined.net/adloadx.php?f=OptiFine_1.3.2_HD_B3.zip) </strong><a href="https://optifine.net/adload.php?f=OptiFine_1.3.2_HD_B3.zip" target="">mirror</a> (23.08.2012)<br>
-Download OptiFine 1.3.2_HD_B2</strong> (fixed: handheld items with Forge, CTM check by ID and metadata, CTM symmetry = all, CTM and sideways logs, Forge compatibility, right-aligned HD fonts; known problems: Extreme Render Distance inactive, not compatible with Forge): [Download](https://optifine.net/adloadx.php?f=OptiFine_1.3.2_HD_B2.zip) </strong><a href="https://optifine.net/adload.php?f=OptiFine_1.3.2_HD_B2.zip" target="">mirror</a> (20.08.2012)<br>
-<br>
-<span style="font-size:18px">OptiFine Light 1.3.2</span></strong><br>
-<br>
-Download OptiFine 1.3.2_L_B2</strong> (updated to 1.3.2, added some B2 optimizations): [Download](https://optifined.net/adloadx.php?f=OptiFine_1.3.2_L_B2.zip) <a href="https://optifine.net/adload.php?f=OptiFine_1.3.2_L_B2.zip" target="">mirror</a> (22.02.2012)
+OptiFine_1.3.1_HD_U_B1: [Download](https://optifine.net/adloadx.php?f=OptiFine_1.3.1_HD_U_B1.zip)\
+OptiFine_1.3.1_HD_U_A3: [Download](https://optifine.net/adloadx.php?f=OptiFine_1.3.1_HD_U_A3.zip)\
+OptiFine_1.3.1_HD_U_A2: [Download](https://optifine.net/adloadx.php?f=OptiFine_1.3.1_HD_U_A2.zip)\
+OptiFine_1.3.1_HD_U_A1: [Download](https://optifine.net/adload.php?f=OptiFine_1.3.1_HD_U_A1.zip)
 
 # Minecraft 1.2.5
 
-<span style="font-size:18px">OptiFine Standard 1.2.5</span></strong><br>
-<br>
-Download OptiFine 1.2.5_HD_C6</strong> (added Natural Textures (<a href="http://imgur.com/a/A6ujp#0" target="">examples</a>, <a href="http://www.minecraftforum.net/topic/468764-" target="">idea</a>), added All Animations On/Off, added Reset Video Settings, supports Forge #164, fixed bug with non-square textures, fixed connected textures to allow mixed block and tile properties, reversed vertical method to match mcpatcher): [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.5_HD_C6.zip) </strong><a href="https://optifine.net/adload.php?f=OptiFine_1.2.5_HD_C6.zip" target="">mirror</a> (19.07.2012)<br>
-Download OptiFine 1.2.5_HD_C3</strong> (fixed Forge bed check, fixed metadata check for custom biome palettes, compatible with Forge #139): [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.5_HD_C3.zip) </strong><a href="https://optifine.net/adload.php?f=OptiFine_1.2.5_HD_C3.zip" target="">mirror</a> (18.06.2012)<br>
-Download OptiFine 1.2.5_HD_C2</strong> (compatible with latest Forge #120, <a href="http://www.minecraftforum.net/topic/249637-125-optifine-hd-b2-fps-boost-hd-textures-aa-af-and-much-more/page__view__findpost__p__15393565" target="">multiple CTM configurations</a> per block/tile, fixed CTM check for side and metadata, added connected vines, Forge bugfixes): [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.5_HD_C2.zip) </strong><a href="https://optifine.net/adload.php?f=OptiFine_1.2.5_HD_C2.zip" target="">mirror</a> (05.06.2012)<br>
-Download OptiFine 1.2.5_HD_B2</strong> (added: connected textures for plants and lilypads, <a href="http://imgur.com/a/hh2EZ#0" target="">vertical connected textures</a>, fixed: transparent chunks bug, connected textures by tile, sandstone and wood variants): [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.5_HD_B2.zip) </strong><a href="https://optifine.net/adload.php?f=OptiFine_1.2.5_HD_B2.zip" target="">mirror</a> (22.05.2012)<br>
-Download OptiFine 1.2.5_HD_B1</strong> (<span style="font-size:18px"><span style="font-size:16px">added: Extended Connected Textures (<a href="http://imgur.com/a/j3dOB#0" target="">examples</a>), support for custom texture animations (blinking cats, cows, etc.), custom mycelium particle colors, custom underwater colors, </span></span><span style="font-size:18px"><span style="font-size:16px">support for block palettes by metadata, white text fix, version check; fixed: </span></span><span style="font-size:18px"><span style="font-size:16px">BetterGrass to work with Mycelium, </span></span><span style="font-size:18px"><span style="font-size:16px">BetterGrass to work correctly with Forge textures; compatibility: should now be compatible with ExtraBiomesXL</span></span>): [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.5_HD_B1.zip) </strong><a href="https://optifine.net/adload.php?f=OptiFine_1.2.5_HD_B1.zip" target="">mirror</a> (10.05.2012)<br>
-Download OptiFine 1.2.5_HD_A6</strong> (added custom lighting, added fog and sky colors for the Nether/End, fixed Forge support, fixed white outlines on transparent blocks, supports HD capes): [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.5_HD_A6.zip), </strong><a href="https://optifine.net/adload.php?f=OptiFine_1.2.5_HD_A6.zip" target="">Download 2</a> (24.04.2012)<br>
-Download OptiFine 1.2.5_HD_A2</strong> (works with 1.2.4, added <a href="http://i.imgur.com/qT3P3.png" target="">variable render distance</a>, added <a href="http://i.imgur.com/WZCmN.png" target="">sun</a>, <a href="http://i.imgur.com/z9hBK.png" target="">moon and stars</a> in Tiny and Short distance, added option Sun&Moon, added separate configuration file, fixed RandomMobs, fixed bottom side of glass blocks with smooth lighting, fixed smooth lighting): [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.5_HD_A2.zip), <a href="https://optifine.net/adload.php?f=OptiFine_1.2.5_HD_A2.zip" target="">Download 2</a></strong> (04.04.2012)<br>
-Download OptiFine 1.2.5_HD_A</strong> (works with 1.2.4, added <a href="http://i.imgur.com/qT3P3.png" target="">variable render distance</a>, added <a href="http://i.imgur.com/WZCmN.png" target="">sun</a>, <a href="http://i.imgur.com/z9hBK.png" target="">moon and stars</a> in Tiny and Short distance, added option Sun&Moon, added separate configuration file, fixed RandomMobs, fixed bottom side of glass blocks with smooth lighting): [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.5_HD_A.zip), <a href="https://optifine.net/adload.php?f=OptiFine_1.2.5_HD_A.zip" target="">Download 2</a></strong> (03.04.2012)<br>
-<br>
-<span style="font-size:18px">OptiFine Smooth 1.2.5</span></strong><br>
-<br>
-<font style="color:#008000">FPS much smoother</font></strong>, no more stuttering and freezes.<br>
-<font style="color:#8b0000">The smooth version is cutting edge.</strong></font><br>
-If it works the results are great, if not try the standard one it should always work.<br>
-<br>
-Download OptiFine 1.2.5_HD_S_C6</strong> (added Natural Textures (<a href="http://imgur.com/a/A6ujp#0" target="">examples</a>, <a href="http://www.minecraftforum.net/topic/468764-" target="">idea</a>), added All Animations On/Off, added Reset Video Settings, supports Forge #164, fixed bug with non-square textures, fixed connected textures to allow mixed block and tile properties, reversed vertical method to match mcpatcher): [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.5_HD_S_C6.zip) </strong><a href="https://optifine.net/adload.php?f=OptiFine_1.2.5_HD_S_C6.zip" target="">mirror</a> (19.07.2012)<br>
-Download OptiFine 1.2.5_HD_S_C3</strong> (fixed Forge bed check, fixed metadata check for custom biome palettes, compatible with Forge #139): [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.5_HD_S_C3.zip) </strong><a href="https://optifine.net/adload.php?f=OptiFine_1.2.5_HD_S_C3.zip" target="">mirror</a> (18.06.2012)<br>
-Download OptiFine 1.2.5_HD_S_C2</strong> (compatible with latest Forge #120, <a href="http://www.minecraftforum.net/topic/249637-125-optifine-hd-b2-fps-boost-hd-textures-aa-af-and-much-more/page__view__findpost__p__15393565" target="">multiple CTM configurations</a> per block/tile, fixed CTM check for side and metadata, added connected vines, Forge bugfixes): [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.5_HD_S_C2.zip) </strong><a href="https://optifine.net/adload.php?f=OptiFine_1.2.5_HD_S_C2.zip" target="">mirror</a> (05.06.2012)<br>
-Download OptiFine 1.2.5_HD_S_B2</strong> (added: connected textures for plants and lilypads, <a href="http://imgur.com/a/hh2EZ#0" target="">vertical connected textures</a>, fixed: transparent chunks bug, connected textures by tile, sandstone and wood variants): [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.5_HD_S_B2.zip) </strong><a href="https://optifine.net/adload.php?f=OptiFine_1.2.5_HD_S_B2.zip" target="">mirror</a>(22.05.2012)<br>
-Download OptiFine 1.2.5_HD_S_B1</strong> (<span style="font-size:18px"><span style="font-size:16px">added: Extended Connected Textures (<a href="http://imgur.com/a/j3dOB#0" target="">examples</a>), support for custom texture animations (blinking cats, cows, etc.), custom mycelium particle colors, custom underwater colors, </span></span><span style="font-size:18px"><span style="font-size:16px">support for block palettes by metadata, white text fix, version check; fixed: </span></span><span style="font-size:18px"><span style="font-size:16px">BetterGrass to work with Mycelium, </span></span><span style="font-size:18px"><span style="font-size:16px">BetterGrass to work correctly with Forge textures; compatibility: should now be compatible with ExtraBiomesXL</span></span>): [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.5_HD_S_B1.zip) </strong><a href="https://optifine.net/adload.php?f=OptiFine_1.2.5_HD_S_B1.zip" target="">mirror</a> (10.05.2012)<br>
-Download OptiFine 1.2.5_HD_S_A6</strong> (added custom lighting, added fog and sky colors for the Nether/End, fixed Forge support, fixed white outlines on transparent blocks, supports HD capes): [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.5_HD_S_A6.zip), </strong><a href="https://optifine.net/adload.php?f=OptiFine_1.2.5_HD_S_A6.zip" target="">Download 2</a> (24.04.2012)<br>
-Download OptiFine 1.2.5_HD_S_A2</strong> (works with 1.2.4, added <a href="http://i.imgur.com/qT3P3.png" target="">variable render distance</a>, added <a href="http://i.imgur.com/WZCmN.png" target="">sun</a>, <a href="http://i.imgur.com/z9hBK.png" target="">moon and stars</a> in Tiny and Short distance, added option Sun&Moon, added separate configuration file, fixed RandomMobs, fixed bottom side of glass blocks with smooth lighting, fixed smooth lighting): [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.5_HD_S_A2.zip), <a href="https://optifine.net/adload.php?f=OptiFine_1.2.5_HD_S_A2.zip" target="">Download 2</a></strong> (04.04.2012)<br>
-Download OptiFine 1.2.5_HD_S_A</strong> (works with 1.2.4, added <a href="http://i.imgur.com/qT3P3.png" target="">variable render distance</a>, added <a href="http://i.imgur.com/WZCmN.png" target="">sun</a>, <a href="http://i.imgur.com/z9hBK.png" target="">moon and stars</a> in Tiny and Short distance, added option Sun&Moon, added separate configuration file, fixed RandomMobs, fixed bottom side of glass blocks with smooth lighting): [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.5_HD_S_A.zip), <a href="https://optifine.net/adload.php?f=OptiFine_1.2.5_HD_S_A.zip" target="">Download 2</a></strong> (03.04.2012)<br>
-<br>
-<span style="font-size:18px">OptiFine Multi-Core 1.2.5</span></strong><br>
-<br>
-<font style="color:#008000">On a single-core processor:</font></strong> FPS much smoother, no more stuttering and freezes.<br>
-<font style="color:#800080">On a multi-core processor:</font></strong> 3x faster world loading, which also does not decrease the FPS.<br>
-<font style="color:#8b0000">The multi-core version is cutting edge.</strong></font><br>
-If it works the results are great, if not try the standard one it should always work.<br>
-<br>
-<span style="font-size:16px"><font style="color:#8b0000">If you have problems with flashing or transparent blocks</strong></font></span><br>
-A. Disable "Threaded Optimization" / "OpenGL Threading"</strong> in the graphics card control panel (<a href="http://i.imgur.com/ciwc6.jpg" target="">example</a>). For best results disable it globally, not only for java.exe or minecraft.exe.<br>
-B. Enable "Vertical Synchronization" in the graphics control panel or set the option Performance to VSync.<br>
-<br>
-Download OptiFine 1.2.5_HD_MT_C6</strong> (added Natural Textures (<a href="http://imgur.com/a/A6ujp#0" target="">examples</a>, <a href="http://www.minecraftforum.net/topic/468764-" target="">idea</a>), added All Animations On/Off, added Reset Video Settings, supports Forge #164, fixed bug with non-square textures, fixed connected textures to allow mixed block and tile properties, reversed vertical method to match mcpatcher): [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.5_HD_MT_C6.zip) </strong><a href="https://optifine.net/adload.php?f=OptiFine_1.2.5_HD_MT_C6.zip" target="">mirror</a> (19.07.2012)<br>
-Download OptiFine 1.2.5_HD_MT_C3</strong> (fixed Forge bed check, fixed metadata check for custom biome palettes, compatible with Forge #139): [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.5_HD_MT_C3.zip) </strong><a href="https://optifine.net/adload.php?f=OptiFine_1.2.5_HD_MT_C3.zip" target="">mirror</a> (18.06.2012)<br>
-Download OptiFine 1.2.5_HD_MT_C2</strong> (compatible with latest Forge #120, <a href="http://www.minecraftforum.net/topic/249637-125-optifine-hd-b2-fps-boost-hd-textures-aa-af-and-much-more/page__view__findpost__p__15393565" target="">multiple CTM configurations</a> per block/tile, fixed CTM check for side and metadata, added connected vines, Forge bugfixes): [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.5_HD_MT_C2.zip) </strong><a href="https://optifine.net/adload.php?f=OptiFine_1.2.5_HD_MT_C2.zip" target="">mirror</a><br>
-(05.06.2012)<br>
-Download OptiFine 1.2.5_HD_MT_B2</strong> (added: connected textures for plants and lilypads, <a href="http://imgur.com/a/hh2EZ#0" target="">vertical connected textures</a>, fixed: transparent chunks bug, connected textures by tile, sandstone and wood variants): [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.5_HD_MT_B2.zip) </strong><a href="https://optifine.net/adload.php?f=OptiFine_1.2.5_HD_MT_B2.zip" target="">mirror</a> (22.05.2012)<br>
-Download OptiFine 1.2.5_HD_MT_B1</strong> (<span style="font-size:18px"><span style="font-size:16px">added: Extended Connected Textures (<a href="http://imgur.com/a/j3dOB#0" target="">examples</a>), support for custom texture animations (blinking cats, cows, etc.), custom mycelium particle colors, custom underwater colors, </span></span><span style="font-size:18px"><span style="font-size:16px">support for block palettes by metadata, white text fix, version check; fixed: </span></span><span style="font-size:18px"><span style="font-size:16px">BetterGrass to work with Mycelium, </span></span><span style="font-size:18px"><span style="font-size:16px">BetterGrass to work correctly with Forge textures; compatibility: should now be compatible with ExtraBiomesXL</span></span>): [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.5_HD_MT_B1.zip) </strong><a href="https://optifine.net/adload.php?f=OptiFine_1.2.5_HD_MT_B1.zip" target="">mirror</a> (24.04.2012)<br>
-Download OptiFine 1.2.5_HD_MT_A6</strong> (added custom lighting, added fog and sky colors for the Nether/End, fixed Forge support, fixed white outlines on transparent blocks, supports HD capes): [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.5_HD_MT_A6.zip), </strong><a href="https://optifine.net/adload.php?f=OptiFine_1.2.5_HD_MT_A6.zip" target="">Download 2</a> (24.04.2012)<br>
-Download OptiFine 1.2.5_HD_MT_A2</strong> (works with 1.2.4, added <a href="http://i.imgur.com/qT3P3.png" target="">variable render distance</a>, added <a href="http://i.imgur.com/WZCmN.png" target="">sun</a>, <a href="http://i.imgur.com/z9hBK.png" target="">moon and stars</a> in Tiny and Short distance, added option Sun&Moon, added separate configuration file, fixed RandomMobs, fixed bottom side of glass blocks with smooth lighting, fixed smooth lighting): [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.5_HD_MT_A2.zip), <a href="https://optifine.net/adload.php?f=OptiFine_1.2.5_HD_MT_A2.zip" target="">Download 2</a></strong> (04.04.2012)<br>
-Download OptiFine 1.2.5_HD_MT_A</strong> (works with 1.2.4, added <a href="http://i.imgur.com/qT3P3.png" target="">variable render distance</a>, added <a href="http://i.imgur.com/WZCmN.png" target="">sun</a>, <a href="http://i.imgur.com/z9hBK.png" target="">moon and stars</a> in Tiny and Short distance, added option Sun&Moon, added separate configuration file, fixed RandomMobs, fixed bottom side of glass blocks with smooth lighting): [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.5_HD_MT_A.zip), <a href="https://optifine.net/adload.php?f=OptiFine_1.2.5_HD_MT_A.zip" target="">Download 2</a></strong> (03.04.2012)<br>
-<br>
-<span style="font-size:18px">OptiFine AA 1.2.5</span></strong><br>
-<br>
-Antialiasing, Anisotropic filtering<br>
-<br>
-Download OptiFine 1.2.5_HD_AA_A7</strong> (added custom lighting, added fog and sky colors for the Nether/End, fixed Forge support, fixed white outlines on transparent blocks, supports HD capes, fixed mipmap levels when AA/AF is OFF): [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.5_HD_AA_A7.zip) <a href="https://optifine.net/adload.php?f=OptiFine_1.2.5_HD_AA_A7.zip" target="">mirror</a> (27.04.2012)<br>
-Download OptiFine 1.2.5_HD_AA_A6</strong> (added custom lighting, added fog and sky colors for the Nether/End, fixed Forge support, fixed white outlines on transparent blocks, supports HD capes): [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.5_HD_AA_A6.zip)</strong>, <a href="https://optifine.net/adload.php?f=OptiFine_1.2.5_HD_AA_A6.zip" target="">Download 2</a> (24.04.2012)<br>
-Download OptiFine 1.2.5_HD_AA_A2</strong> (works with 1.2.4, added <a href="http://i.imgur.com/qT3P3.png" target="">variable render distance</a>, added <a href="http://i.imgur.com/WZCmN.png" target="">sun</a>, <a href="http://i.imgur.com/z9hBK.png" target="">moon and stars</a> in Tiny and Short distance, added option Sun&Moon, added separate configuration file, fixed RandomMobs, fixed bottom side of glass blocks with smooth lighting, fixed smooth lighting): [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.5_HD_AA_A2.zip)</strong>, <a href="https://optifine.net/adload.php?f=OptiFine_1.2.5_HD_AA_A2.zip" target="">Download 2</a></strong> (05.04.2012)<br>
-<br>
-<span style="font-size:18px">OptiFine Ultra 1.2.5</span></strong><br>
-<br>
-<span style="font-size:16px"><font style="color:#006400">Preview</font> OptiFine HD C7 <font style="color:#800000">Ultra</font> (Smooth + Multi-Core + AA) for Minecraft 1.2.5</span>: [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.5_HD_U_C7.zip) <a href="https://optifine.net/adload.php?f=OptiFine_1.2.5_HD_U_C7.zip" target="">mirror</a><br>
-<span style="font-size:16px"><font style="color:#006400">Preview</font> OptiFine HD A7 <font style="color:#800000">Smooth + AA</font> for Minecraft 1.2.5</span>: [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.5_HD_S_AA_A7.zip) <a href="https://optifine.net/adload.php?f=OptiFine_1.2.5_HD_S_AA_A7.zip" target="">mirror</a><br>
-<span style="font-size:16px"><font style="color:#006400">Preview </font>OptiFine HD A7 <font style="color:#800000">Multi-Core + AA</font> for Minecraft 1.2.5</span>: [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.5_HD_MT_AA_A7.zip) <a href="https://optifine.net/adload.php?f=OptiFine_1.2.5_HD_MT_AA_A7.zip" target=""><u>mirror</u></a>
+OptiFine_1.2.5_HD_C6: [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.5_HD_C6.zip)\
+OptiFine_1.2.5_HD_C3: [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.5_HD_C3.zip)\
+OptiFine_1.2.5_HD_C2: [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.5_HD_C2.zip)\
+OptiFine_1.2.5_HD_B2: [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.5_HD_B2.zip)\
+OptiFine_1.2.5_HD_B1: [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.5_HD_B1.zip)\
+OptiFine_1.2.5_HD_A6: [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.5_HD_A6.zip)\
+OptiFine_1.2.5_HD_A2: [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.5_HD_A2.zip)\
+OptiFine_1.2.5_HD_A: [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.5_HD_A.zip)\
+OptiFine_1.2.5_HD_S_C6: [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.5_HD_S_C6.zip)\
+OptiFine_1.2.5_HD_S_C3: [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.5_HD_S_C3.zip)\
+OptiFine_1.2.5_HD_S_C2: [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.5_HD_S_C2.zip)\
+OptiFine_1.2.5_HD_S_B2: [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.5_HD_S_B2.zip)\
+OptiFine_1.2.5_HD_S_B1: [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.5_HD_S_B1.zip)\
+OptiFine_1.2.5_HD_S_A6: [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.5_HD_S_A6.zip)\
+OptiFine_1.2.5_HD_S_A2: [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.5_HD_S_A2.zip)\
+OptiFine_1.2.5_HD_S_A: [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.5_HD_S_A.zip)\
+OptiFine_1.2.5_HD_MT_C6: [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.5_HD_MT_C6.zip)\
+OptiFine_1.2.5_HD_MT_C3: [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.5_HD_MT_C3.zip)\
+OptiFine_1.2.5_HD_MT_C2: [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.5_HD_MT_C2.zip)\
+OptiFine_1.2.5_HD_MT_B2: [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.5_HD_MT_B2.zip)\
+OptiFine_1.2.5_HD_MT_B1: [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.5_HD_MT_B1.zip)\
+OptiFine_1.2.5_HD_MT_A6: [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.5_HD_MT_A6.zip)\
+OptiFine_1.2.5_HD_MT_A2: [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.5_HD_MT_A2.zip)\
+OptiFine_1.2.5_HD_MT_A: [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.5_HD_MT_A.zip)\
+OptiFine_1.2.5_HD_AA_A7: [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.5_HD_AA_A7.zip)\
+OptiFine_1.2.5_HD_AA_A6: [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.5_HD_AA_A6.zip)\
+OptiFine_1.2.5_HD_AA_A2: [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.5_HD_AA_A2.zip)\
+OptiFine_1.2.5_HD_U_C7: [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.5_HD_U_C7.zip)\
+OptiFine_1.2.5_HD_S_AA_A7: [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.5_HD_S_AA_A7.zip)\
+OptiFine_1.2.5_HD_MT_AA_A7: [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.5_HD_MT_AA_A7.zip)
 
 # Minecraft 1.2.3
 
-<span style="font-size:18px">OptiFine Standard 1.2.3</span></strong><br>
-<br>
-Download OptiFine 1.2.3_HD_B</strong> (ported to 1.2.3): [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.3_HD_B.zip), <a href="https://optifine.net/adload.php?f=OptiFine_1.2.3_HD_B.zip" target="">Download 2</a></strong> (07.03.2012)<br>
-<br>
-<span style="font-size:18px">OptiFine Smooth 1.2.3</span></strong><br>
-<br>
-Download OptiFine 1.2.3_HD_S_B</strong> (ported to 1.2.3): [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.3_HD_S_B.zip), <a href="https://optifine.net/adload.php?f=OptiFine_1.2.3_HD_S_B.zip" target="">Download 2</a></strong> (07.03.2012)<br>
-<br>
-<span style="font-size:18px">OptiFine Multi-Core 1.2.3</span></strong><br>
-<br>
-Download OptiFine 1.2.3_HD_MT_B</strong> (ported to 1.2.3): [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.3_HD_MT_B.zip), <a href="https://optifine.net/adload.php?f=OptiFine_1.2.3_HD_MT_B.zip" target="">Download 2</a></strong> (07.03.2012)
+OptiFine_1.2.3_HD_B: [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.3_HD_B.zip)\
+OptiFine_1.2.3_HD_S_B: [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.3_HD_S_B.zip)\
+OptiFine_1.2.3_HD_MT_B: [Download](https://optifine.net/adloadx.php?f=OptiFine_1.2.3_HD_MT_B.zip)
 
 # Minecraft 1.1
 
-<span style="font-size:18px">OptiFine Standard 1.1</span></strong><br>
-<br>
-Download OptiFine 1.1_HD_D6</strong> (faster Smooth Lighting, fixed BetterGrass with Forge blocks): [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_D6.zip), <a href="https://optifine.net/adloadx.php?f=OptiFine_1.1_HD_D6.zip" target="">Download 2</a></strong> (27.02.2012)<br>
-Download OptiFine 1.1_HD_D5</strong> (fixed Smooth Lighting for glass(<a href="http://imgur.com/a/umzIJ#0" target="">example</a>), fixed mipmaps and breaking animation for Connected Textures): [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_D5.zip), <a href="https://optifine.net/adloadx.php?f=OptiFine_1.1_HD_D5.zip" target="">Download 2</a></strong> (23.02.2012)<br>
-Download OptiFine 1.1_HD_D4</strong> (fixed Forge textures): [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_D4.zip), <a href="https://optifine.net/adloadx.php?f=OptiFine_1.1_HD_D4.zip" target="">Download 2</a></strong> (22.02.2012)<br>
-Download OptiFine 1.1_HD_D3</strong> (added connected textures for glass panes): [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_D3.zip), <a href="http://adf.ly/5faLR" target="">Download 2</a></strong> (21.02.2012)<br>
-Download OptiFine 1.1_HD_D2</strong> (fixed birch and pine swamp colors): [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_D2.zip), <a href="http://adf.ly/5ZEgL" target="">Download 2</a></strong> (17.02.2012)<br>
-Download OptiFine 1.1_HD_D</strong> (added Connected Textures, fixed crash when teleporting with portals): [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_D.zip), <a href="http://adf.ly/5TlYU" target="">Download 2</a></strong> (14.02.2012)<br>
-Download OptiFine 1.1_HD_C</strong> (fixed flickering paintings, vines and other textures!): [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_C.zip), <a href="http://adf.ly/5NbSv" target="">Download 2</a></strong> (08.02.2012)<br>
-Download OptiFine 1.1_HD_B2</strong> (added custom colors for sky, fog, redstone, stem and portal particles, added options Smooth Biomes, Custom Fonts, Custom Colors and Show Capes): [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_B2.zip), <a href="http://adf.ly/5DD8o" target="">Download 2</a></strong> (03.02.2012)<br>
-Download OptiFine 1.1_HD_A4</strong> (added Random Mobs, option Swamp Colors, custom HD Font widths, far arrow render, fixed modloader compatibility): [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_A4.zip), <a href="http://adf.ly/4swO6" target="">Download 2</a></strong> (20.01.2012)<br>
-Download OptiFine 1.1_HD_A3</strong> (added Random Mobs, option Swamp Colors, custom HD Font widths, far arrow render): [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_A3.zip), <a href="http://adf.ly/4qtai" target="">Download 2</a></strong> (19.01.2012)<br>
-<br>
-<span style="font-size:18px">OptiFine Smooth 1.1</span></strong><br>
-<br>
-<font style="color:#008000">FPS much smoother</font></strong>, no more stuttering and freezes.<br>
-<font style="color:#8b0000">The smooth version is cutting edge.</strong></font><br>
-If it works the results are great, if not try the standard one it should always work.<br>
-<br>
-Download OptiFine 1.1_HD_S_D6</strong> (faster Smooth Lighting, fixed BetterGrass with Forge blocks): [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_S_D6.zip), <a href="https://optifine.net/adloadx.php?f=OptiFine_1.1_HD_S_D6.zip" target="">Download 2</a></strong> (23.02.2012)<br>
-Download OptiFine 1.1_HD_S_D5</strong> (fixed Smooth Lighting for glass(<a href="http://imgur.com/a/umzIJ#0" target="">example</a>), fixed mipmaps and breaking animation for Connected Textures): [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_S_D5.zip), <a href="https://optifine.net/adloadx.php?f=OptiFine_1.1_HD_S_D5.zip" target="">Download 2</a></strong> (23.02.2012)<br>
-Download OptiFine 1.1_HD_S_D4</strong> (fixed Forge textures): [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_S_D4.zip), <a href="https://optifine.net/adloadx.php?f=OptiFine_1.1_HD_S_D4.zip" target="">Download 2</a></strong> (22.02.2012)<br>
-Download OptiFine 1.1_HD_S_D3</strong> (added connected textures for glass panes): [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_S_D3.zip), <a href="http://adf.ly/5faLS" target="">Download 2</a></strong> (21.02.2012)<br>
-Download OptiFine 1.1_HD_S_D2</strong> (fixed birch and pine swamp colors): [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_S_D2.zip), <a href="http://adf.ly/5ZEUT" target="">Download 2</a></strong> (17.02.2012)<br>
-Download OptiFine 1.1_HD_S_D</strong> (added Connected Textures, fixed crash when teleporting with portals): [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_S_D.zip), <a href="http://adf.ly/5TlYZ" target="">Download 2</a></strong> (14.02.2012)<br>
-Download OptiFine 1.1_HD_S_C</strong> (fixed flickering paintings, vines and other textures!): [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_S_C.zip), <a href="http://adf.ly/5NbSw" target="">Download 2</a></strong> (08.02.2012)<br>
-Download OptiFine 1.1_HD_S_B2</strong> (added custom colors for sky, fog, redstone, stem and portal particles, added options Smooth Biomes, Custom Fonts, Custom Colors and Show Capes): [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_S_B2.zip), <a href="http://adf.ly/5DD8r" target="">Download 2</a></strong> (03.02.2012)<br>
-Download OptiFine 1.1_HD_S_A4</strong> (added Random Mobs, option Swamp Colors, custom HD Font widths, far arrow render, fixed modloader compatibility): [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_S_A4.zip), <a href="http://adf.ly/4swOR" target="">Download 2</a></strong> (20.01.2012)<br>
-Download OptiFine 1.1_HD_S_A3</strong> (added Random Mobs, option Swamp Colors, custom HD Font widths, far arrow render): [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_S_A3.zip), <a href="http://adf.ly/4qtar" target="">Download 2</a></strong> (19.01.2012)<br>
-<br>
-<span style="font-size:18px">OptiFine Multi-Core 1.1</span></strong><br>
-<br>
-<font style="color:#008000">On a single-core processor:</font></strong> FPS much smoother, no more stuttering and freezes.<br>
-<font style="color:#800080">On a multi-core processor:</font></strong> 3x faster world loading, which also does not decrease the FPS.<br>
-<font style="color:#8b0000">The multi-core version is cutting edge.</strong></font><br>
-If it works the results are great, if not try the standard one it should always work.<br>
-<br>
-<span style="font-size:16px"><font style="color:#8b0000">If you have problems with flashing or transparent blocks</strong></font></span><br>
-A. Disable "Threaded Optimization" / "OpenGL Threading"</strong> in the graphics card control panel (<a href="http://i.imgur.com/ciwc6.jpg" target="">example</a>). For best results disable it globally, not only for java.exe or minecraft.exe.<br>
-B. Enable "Vertical Synchronization" in the graphics control panel or set the option Performance to VSync.<br>
-<br>
-Download OptiFine 1.1_HD_MT_D6</strong> (faster Smooth Lighting, fixed BetterGrass with Forge blocks): [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_MT_D6.zip), <a href="https://optifine.net/adloadx.php?f=OptiFine_1.1_HD_MT_D6.zip" target="">Download 2</a></strong> (27.02.2012)<br>
-Download OptiFine 1.1_HD_MT_D6</strong> (fixed Smooth Lighting for glass(<a href="http://imgur.com/a/umzIJ#0" target="">example</a>), fixed mipmaps and breaking animation for Connected Textures): [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_MT_D5.zip), <a href="https://optifine.net/adloadx.php?f=OptiFine_1.1_HD_MT_D5.zip" target="">Download 2</a></strong> (23.02.2012)<br>
-Download OptiFine 1.1_HD_MT_D4</strong> (fixed Forge textures): [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_MT_D4.zip), <a href="https://optifine.net/adloadx.php?f=OptiFine_1.1_HD_MT_D4.zip" target="">Download 2</a></strong> (22.02.2012)<br>
-Download OptiFine 1.1_HD_MT_D3</strong> (added connected textures for glass panes): [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_MT_D3.zip), <a href="http://adf.ly/5faLT" target="">Download 2</a></strong> (21.02.2012)<br>
-Download OptiFine 1.1_HD_MT_D2</strong> (fixed birch and pine swamp colors): [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_MT_D2.zip), <a href="http://adf.ly/5ZEUW" target="">Download 2</a></strong> (17.02.2012)<br>
-Download OptiFine 1.1_HD_MT_D</strong> (added Connected Textures, fixed crash when teleporting with portals): [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_MT_D.zip), <a href="http://adf.ly/5TlYe" target="">Download 2</a></strong> (14.02.2012)<br>
-Download OptiFine 1.1_HD_MT_C</strong> (fixed flickering paintings, vines and other textures!): [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_MT_C.zip), <a href="http://adf.ly/5NbSz" target="">Download 2</a></strong> (08.02.2012)<br>
-Download OptiFine 1.1_HD_MT_B2</strong> (added custom colors for sky, fog, redstone, stem and portal particles, added options Smooth Biomes, Custom Fonts, Custom Colors and Show Capes): [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_MT_B2.zip), <a href="http://adf.ly/5DD8q" target="">Download 2</a></strong> (03.02.2012)<br>
-Download OptiFine 1.1_HD_MT_A4</strong> (added Random Mobs, option Swamp Colors, custom HD Font widths, far arrow render, fixed modloader compatibility): [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_MT_A4.zip), <a href="http://adf.ly/4swOI" target="">Download 2</a></strong> (20.01.2012)<br>
-Download OptiFine 1.1_HD_MT_A3</strong> (added Random Mobs, option Swamp Colors, custom HD Font widths, far arrow render): [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_MT_A3.zip), <a href="http://adf.ly/4qtan" target="">Download 2</a></strong> (19.01.2012)<br>
-<br>
-<span style="font-size:18px">OptiFine AA 1.1</span></strong><br>
-<br>
-Antialiasing, Anisotropic filtering<br>
-<br>
-Download OptiFine 1.1_HD_AA_C</strong> (fixed flickering paintings, vines and other textures!): [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_AA_C.zip)</strong>, <a href="http://adf.ly/5NbT2" target="">Download 2</a></strong>(08.02.2012)<br>
-Download OptiFine 1.1_HD_AA_B2</strong> (fixed some AA problems when mipmaps are not active): [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_AA_B2.zip)</strong>, <a href="http://adf.ly/5DD8p" target="">Download 2</a></strong> (03.02.2012)<br>
-Download OptiFine 1.1_HD_AA_A4</strong> (added Random Mobs, option Swamp Colors, custom HD Font widths, far arrow render, fixed modloader compatibility): [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_AA_A4.zip)</strong>, <a href="http://adf.ly/4swO9" target="">Download 2</a></strong> (20.01.2012)<br>
-Download OptiFine 1.1_HD_AA_A3</strong> (added Random Mobs, option Swamp Colors, custom HD Font widths, far arrow render): [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_AA_A3.zip)</strong>, <a href="http://adf.ly/4qxi1" target="">Download 2</a></strong> (19.01.2012)<br>
-<br>
-<span style="font-size:18px">OptiFine Light 1.1</span></strong><br>
-<br>
-Download OptiFine 1.1_L_C</strong> (fixed flickering paintings, vines and other textures!): [Download](https://optifine.net/adloadx.php?f=OptiFine_1.1_L_C.zip) <a href="https://optifine.net/adload.php?f=OptiFine_1.1_L_C.zip" target="">mirror</a> (08.02.2012)<br>
-Download OptiFine 1.1_L</strong> (ported to 1.1, added faster smooth lighting): [Download](https://optifine.net/adload.php?f=OptiFine_1.1_L.zip)</strong>, <a href="http://adf.ly/57KEO" target="">Download 2</a></strong> (30.01.2012)
+OptiFine_1.1_HD_D6: [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_D6.zip)\
+OptiFine_1.1_HD_D5: [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_D5.zip)\
+OptiFine_1.1_HD_D4: [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_D4.zip)\
+OptiFine_1.1_HD_D3: [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_D3.zip)\
+OptiFine_1.1_HD_D2: [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_D2.zip)\
+OptiFine_1.1_HD_D: [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_D.zip)\
+OptiFine_1.1_HD_C: [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_C.zip)\
+OptiFine_1.1_HD_B2: [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_B2.zip)\
+OptiFine_1.1_HD_A4: [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_A4.zip)\
+OptiFine_1.1_HD_A3: [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_A3.zip)\
+OptiFine_1.1_HD_S_D6: [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_S_D6.zip)\
+OptiFine_1.1_HD_S_D5: [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_S_D5.zip)\
+OptiFine_1.1_HD_S_D4: [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_S_D4.zip)\
+OptiFine_1.1_HD_S_D3: [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_S_D3.zip)\
+OptiFine_1.1_HD_S_D2: [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_S_D2.zip)\
+OptiFine_1.1_HD_S_D: [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_S_D.zip)\
+OptiFine_1.1_HD_S_C: [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_S_C.zip)\
+OptiFine_1.1_HD_S_B2: [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_S_B2.zip)\
+OptiFine_1.1_HD_S_A4: [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_S_A4.zip)\
+OptiFine_1.1_HD_S_A3: [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_S_A3.zip)\
+OptiFine_1.1_HD_MT_D6: [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_MT_D6.zip)\
+OptiFine_1.1_HD_MT_D6: [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_MT_D5.zip)\
+OptiFine_1.1_HD_MT_D4: [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_MT_D4.zip)\
+OptiFine_1.1_HD_MT_D3: [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_MT_D3.zip)\
+OptiFine_1.1_HD_MT_D2: [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_MT_D2.zip)\
+OptiFine_1.1_HD_MT_D: [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_MT_D.zip)\
+OptiFine_1.1_HD_MT_C: [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_MT_C.zip)\
+OptiFine_1.1_HD_MT_B2: [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_MT_B2.zip)\
+OptiFine_1.1_HD_MT_A4: [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_MT_A4.zip)\
+OptiFine_1.1_HD_MT_A3: [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_MT_A3.zip)\
+OptiFine_1.1_HD_AA_C: [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_AA_C.zip)\
+OptiFine_1.1_HD_AA_B2: [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_AA_B2.zip)\
+OptiFine_1.1_HD_AA_A4: [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_AA_A4.zip)\
+OptiFine_1.1_HD_AA_A3: [Download](https://optifine.net/adload.php?f=OptiFine_1.1_HD_AA_A3.zip)\
+OptiFine_1.1_L_C: [Download](https://optifine.net/adloadx.php?f=OptiFine_1.1_L_C.zip)\
+OptiFine_1.1_L: [Download](https://optifine.net/adload.php?f=OptiFine_1.1_L.zip)
 
 # Minecraft 1.0.0
 
