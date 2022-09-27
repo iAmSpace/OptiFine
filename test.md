@@ -165,7 +165,7 @@ OptiFine_1.6.2_HD_U_C2: [Download](https://optifine.net/adloadx?f=OptiFine_1.6.2
 OptiFine_1.6.2_HD_U_C1: [Download](https://optifine.net/adloadx?f=OptiFine_1.6.2_HD_U_C1.jar)\
 OptiFine_1.6.2_HD_U_B5: [Download](https://optifine.net/adloadx?f=OptiFine_1.6.2_HD_U_B5.zip)\
 OptiFine_1.6.2_HD_C4: [Download](https://optifine.net/adloadx?f=OptiFine_1.6.2_HD_C4.jar)\
-OptiFine_1.6.2_HD_B5: [Download](https://optifine.net/adloadx?f=OptiFine_1.6.2_HD_B5.zip)\
+OptiFine_1.6.2_HD_B5: [Download](https://optifine.net/adloadx?f=OptiFine_1.6.2_HD_B5.zip)
 
 ---
 ### Minecraft versions 1.6.1 and 1.6 are missing.
@@ -542,71 +542,13 @@ Download version 1.5_01_E (old, NOT Optimine compatible, but may be faster): [Do
 Version 1.5_01_D (older, Optimine compatible): [Download](http://adf.ly/1RQpk), <a href="http://adf.ly/1RQrC" target="">Download 2</a><br>
 <br>
 Version 1.5_01_C (older, not Optimine compatible, but may be faster): [Download](http://adf.ly/1MplL), <a href="http://adf.ly/1MpqY" target="">Download 2</a><br>
-<br>
-<span style="font-size:16px">Options:</span></strong><br>
-- AdvancedOpenGL:</strong> Occlusion Culling, the game renders only the geometry which is really visible.<br>
-OFF - all geometry is rendered (slow)<br>
-Fast - agressive, may produce minimal artifacts (but much less than the default Minecraft OC)<br>
-Fancy - conservative, should have no artifacts<br>
-- Fog:</strong> Select fog type if supported by the GPU<br>
-Fast - faster, simpler fog<br>
-Fancy - slower, better looking fog<br>
-- FogStart:</strong> Select fog start distance<br>
-Min = 0.2 (close to player)<br>
-Max = 0.8 (far from player, near to render limits)<br>
-- Mipmap Level:</strong> how many levels of mipmaps are to be used, decreases the flickering of distant objects, should not affect FPS<br>
-Min = 0 - no mipmaps, Minecraft default look<br>
-Max = 4 - full mipmaps, some detail may disappear in distant objects<br>
-- Mipmap Type:</strong> type of mipmaps, minimal FPS effect if any at all<br>
-Nearest - faster<br>
-Linear - better looking<br>
-- Load Far:</strong> Enables fast render distance switching without reloading chunks, loads all the terrain at distance Far<br>
-- PreloadedChunks:</strong> Enables movement in an area without loading new chunks<br>
-Min = 0 - no preloading, after moving 5m new chunks will be loaded (default)<br>
-Max = 8 - preload 8 chunks, when moving up to 8 chunks (8 x 16m = 128m) no new chunks will be loaded<br>
-Bigger values force more chunks to be loaded at startup, which may take some time<br>
-<br>
+
 Version 1.5_01_B (older): [Download](http://adf.ly/1MJkW), <a href="http://adf.ly/1MJmR" target="">Download 2</a><br>
 Prototype 1.5_01 (even older): [Download](http://adf.ly/1LHvM), <a href="http://adf.ly/1LHyE" target="">Download 2</a>.</div>
 <p> </strong></strong></p>
 # Minecraft Beta 1.4
 
-<font style="color:#bf0000">*** UPDATED - Added experimental Occlusion Culling (hidden geometry removal) ***</font></strong><br>
-<font style="color:#00b000">*** UPDATED - Optimine compatible</font> <font style="color:#bf8000">(fixed Nether bug)</font> ***</strong><br>
-<font style="color:#0000b0">*** UPDATED - Added texture mipmapping (finally looking good) ***</font></strong><br>
-<font style="color:#b000b0">*** UPDATED - Added chunk loading optimizations (like mod CAF) ***</font></strong><br>
-<font style="color:#b0b000">*** UPDATED - Modular and configurable (install only what you need, configure it as you like it) ***</font></strong><br>
-<font style="color:#000">*** UPDATED - ALL rendering bugs fixed, added dynamic chunk update rate ***</font></strong><br>
-<br>
-What the mod does:</strong><br>
-1. Pushes the fog away from the player so that it is only visible as transition on the render limits =&gt; looks better<br>
-2. Uses a fast fog type on FAST and a better looking fog type on FANCY settings =&gt; FPS boost<br>
-3. Decreases the render distance a little to get the same visible depth as before. On FAST decreases it even more to compensate for bad fog on screen edges =&gt; FPS boost<br>
-<font style="color:#bf0000">4. Added experimental Occlussion Culling (hidden geometry removal) so only visible objects are rendered. Helps a lot on bigger render distances, on FAR and NORMAL doubles the FPS.</strong></font><br>
-<font style="color:#00b000">5. Added Optimine compatible versions (both "inio" and "303" versions of Optimine).</strong></font><br>
-<font style="color:#0000b0">6. Added Texture mipmapping - far distances blend nicely, no more eyestrain.</strong></font><br>
-<font style="color:#b000b0">7. Added chunk loading optimizations, like mod CAF. Configure how much chunks are to be loaded and how fast, define "loading free" walking distance, limit max number of loaded chunks, fast render distance switching without reloading chunks.</strong></font><br>
-<font style="color:#b0b000">8. Modular and configurable. Install only the functions you need. Edit configuration file to turn on/off functions or change parameters. See "Readme.txt" and "optifog.txt" for details.</strong></font><br>
-<br>
-The original fog starts too close to the player and everything is rendered foggy, especially on short render distances. After correcting the fog more terrain is visible, which is compensated by decreasing the render distance which increases FPS. Plain 1.4_01 always uses the better looking fog type if available, which is SLOW. The mod uses a faster fog type on FAST which is 80% faster on my PC.<br>
-<br>
-The Occlusion Culling</strong> (hidden geometry removal) is still experimental. If it is works then the results should be pretty dramatic, my FPS on NORMAL and FAR is doubled :-). OC is currently tested on nVidia. I suspect that some ATI cards may have problems with it. Please, check for visual artifacts and report back.<br>
-<br>
-The Optimine version was a dog to get running, but it is all over. Finally!<br>
-<br>
-Classic is updated to better render the sunrise/sunset on FAST.<br>
-<br>
-<font style="color:#0000f0">The mipmapping version may steal 2-3 FPS but the result is nice. Minecraft is finally looking good.</strong></font><br>
-<br>
-The chunk loading optimizations allow to fine tune the chunk loading so that is does not get in the way. Also fast render distance switching without chunk reloading is possible (like mod CAF).<br>
-Added dynamic chunk update rate. When the player is staying still it uses fast update rate to load the map faster, when the player is moving (movement, mouse, actions) uses minimal update rate to keep the FPS high.<br>
-<br>
-<font style="color:#bf0000">See "Readme.txt" and "optifog.txt" for more details.</strong></font><br>
-<br>
-<font style="color:#00a000">With the fog away, even shorter render distances look good and are playable.</strong></font><br>
-<br>
-<span style="font-size:9px">Standalone versions (1.4_01):</span></strong><br>
-<br>
+
 <font style="color:#bf0000">OptiFog Full (includes classic, experimental OC and mipmap)</strong></font><br>
 Download: [Download](http://adf.ly/1HnEF), <a href="http://www.2shared.com/file/Dsxi6IFU/OptiFog_14_01_Full_D.html" target="">direct</a></strong><br>
 Alternative download: [Download](http://adf.ly/1HnMX"), <a href="http://www.mediafire.com/?xed24lxxiwdznvv" target="">direct</a></strong><br>
