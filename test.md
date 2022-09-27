@@ -426,7 +426,7 @@ OptiFine_1.8.1_HD_MT_A2: [Download](https://optifine.net/adloadx?f=beta_OptiFine
 OptiFine_1.8.1_HD_MT_A1: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_MT_A1.zip)\
 OptiFine_1.8.1_HD_MT_A: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_MT_A.zip)\
 OptiFine_1.8.1_HD_AA_D2: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_AA_D2.zip)\
-OptiFine_1.8.1_HD_AA_D1: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_AA_D1.zip)\
+OptiFine_1.8.1_HD_AA_D1: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_AA_D1.zip)
 
 ## OptiMine
 
