@@ -442,6 +442,7 @@ LagSpikeOfDeath_1.8.1: [Download](https://github.com/iAmSpace/OptiFine/raw/main/
 Optimine_1.7.3: [Download](https://optifine.net/adloadx?f=beta_Optimine_1.7.3.zip)\
 OptiFog_Optimine_1.7.3_HD: [Download](https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.7.3_HD.zip)\
 OptiFog_Optimine_1.7.3_HD_E: [Download](https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.7.3_HD_E.zip)\
+OptiFog_Optimine_1.7.3_HD_E_MT: [Download](https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.7.3_HD_E_MT.zip)\
 OptiFog_Optimine_1.7.3_HD_E_MT2: [Download](https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.7.3_HD_E_MT2.zip)\
 OptiFog_Optimine_1.7.3_HD_E2_MT3: [Download](https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.7.3_HD_E2_MT3.zip)\
 OptiFog_Optimine_1.7.3_HD_D: [Download](https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.7.3_HD_D.zip)\
@@ -460,20 +461,7 @@ OptiFine_1.7.3_HD_G: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.7
 OptiFine_1.7.3_HD_F: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.7.3_HD_F.zip)\
 OptiFine_1.7.3_HD_F_MTL: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.7.3_HD_F_MTL.zip)\
 OptiFine_1.7.3_HD_AA_G5: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.7.3_HD_AA_G5.zip)\
-OptiFine 1.7.3_HD_G: [Download](https://github.com/iAmSpace/OptiFine/raw/main/versions/b1.7.3/OptiFine_1.7.3_HD_G.zip)\
-OptiFine 1.7.3_HD_F: [Download](https://github.com/iAmSpace/OptiFine/raw/main/versions/b1.7.3/OptiFine_1.7.3_HD_F.zip)\
-OptiFog + Optimine 1.7.3_HD_E: *Lost to time. If you have this version please contact iAmSpace#0777 on Discord.*\
-OptiFog + Optimine 1.7.3_HD_D: *Lost to time. If you have this version please contact iAmSpace#0777 on Discord.*\
-OptiFog + Optimine 1.7.3_HD_C: *Lost to time. If you have this version please contact iAmSpace#0777 on Discord.*\
-OptiFog + Optimine 1.7.3_HD_B: *Lost to time. If you have this version please contact iAmSpace#0777 on Discord.*\
-OptiFog + Optimine 1.7.3_HD_A: *Lost to time. If you have this version please contact iAmSpace#0777 on Discord.*\
-OptiFog + Optimine 1.7.3_HD: *Lost to time. If you have this version please contact iAmSpace#0777 on Discord.*\
-OptiFine 1.7.3_HD_S_G: [Download](https://github.com/iAmSpace/OptiFine/raw/main/versions/b1.7.3/OptiFine_1.7.3_HD_S_G.zip)\
-OptiFine 1.7.3_HD_F_MTL: [Download](https://github.com/iAmSpace/OptiFine/raw/main/versions/b1.7.3/OptiFine_1.7.3_HD_F_MTL.zip)\
-OptiFine 1.7.3_HD_MT_G2: [Download](https://github.com/iAmSpace/OptiFine/raw/main/versions/b1.7.3/OptiFine_1.7.3_HD_MT_G2.zip)\
-OptiFog + Optimine 1.7.3_HD_E_MT: *Lost to time. If you have this version please contact iAmSpace#0777 on Discord.*\
-OptiFog + Optimine 1.7.3_HD_D_MT2: *Lost to time. If you have this version please contact iAmSpace#0777 on Discord.*\
-OptiFine 1.7.3_HD_AA: *Lost to time. If you have this version please contact iAmSpace#0777 on Discord.*
+OptiFine_1.7.3_HD_AA: *Lost to time. If you have this version please contact iAmSpace#0777 on Discord.*
 
 ## OptiMine
 Optimine_1.7.3: [Download](https://github.com/iAmSpace/OptiFine/raw/main/versions/b1.7.3/Optimine_1.7.3.zip)
