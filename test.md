@@ -1,5 +1,3 @@
-<div style="text-align: right">dd.mm.yyyy</div>
-
 # Minecraft 1.8.9
 
 OptiFine_1.8.9_HD_U_H3: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_H3.jar)\
