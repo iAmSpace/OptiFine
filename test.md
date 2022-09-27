@@ -520,22 +520,7 @@ OptiFog_1.5_01_A: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.5_01_
 OptiFog_1.5_01: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.5_01.zip)\
 optimine-1.5_01v2: [Download](https://optifine.net/adloadx?f=beta_optimine-1.5_01v2.zip)
 
-# I couldn't be bothered past this point
-
-Download version 1.5_01_F_OM</strong> (Optimine compatible): [Download](http://adf.ly/1Y8Nl), <a href="http://adf.ly/1Y8P1" target="">Download 2</a></strong><br>
-Download version 1.5_01_F</strong> (NOT Optimine compatible, but may be faster): [Download](http://adf.ly/1Y8OA), <a href="http://adf.ly/1Y8PZ" target="">Download 2</a></strong><br>
-<br>
-Download version 1.5_01_E_om (old, Optimine compatible): [Download](http://adf.ly/1XW6I), <a href="http://adf.ly/1XW6j" target="">Download 2</a><br>
-Download version 1.5_01_E (old, NOT Optimine compatible, but may be faster): [Download](http://adf.ly/1XW51), <a href="http://adf.ly/1XW5Y" target="">Download 2</a><br>
-Version 1.5_01_D (older, Optimine compatible): [Download](http://adf.ly/1RQpk), <a href="http://adf.ly/1RQrC" target="">Download 2</a><br>
-<br>
-Version 1.5_01_C (older, not Optimine compatible, but may be faster): [Download](http://adf.ly/1MplL), <a href="http://adf.ly/1MpqY" target="">Download 2</a><br>
-
-Version 1.5_01_B (older): [Download](http://adf.ly/1MJkW), <a href="http://adf.ly/1MJmR" target="">Download 2</a><br>
-Prototype 1.5_01 (even older): [Download](http://adf.ly/1LHvM), <a href="http://adf.ly/1LHyE" target="">Download 2</a>.</div>
-<p> </strong></strong></p>
 # Minecraft Beta 1.4
-
 
 <font style="color:#bf0000">OptiFog Full (includes classic, experimental OC and mipmap)</strong></font><br>
 Download: [Download](http://adf.ly/1HnEF), <a href="http://www.2shared.com/file/Dsxi6IFU/OptiFog_14_01_Full_D.html" target="">direct</a></strong><br>
