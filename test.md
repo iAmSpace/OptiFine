@@ -376,164 +376,125 @@ OptiFine_1.1_L: [Download](https://optifine.net/adload.php?f=OptiFine_1.1_L.zip)
 
 # Minecraft 1.0.0
 
-<span style="font-size:18px">OptiFine Standard 1.0.0</span></strong><br>
-<br>
-Download OptiFine 1.0.0_HD_D3</strong> (animated terrain and items, custom water, foliage and grass colors, custom block color palettes (<a href="http://www.minecraftforum.net/topic/232701-" target="">info</a>, <a href="http://www.minecraftforum.net/topic/69354-" target="">example</a>), smart texturepack switching, faster mipmaps (especially for custom block textures)): [Download](https://optifine.net/adload.php?f=OptiFine_1.0.0_HD_D3.zip), <a href="http://adf.ly/4RbiB" target="">Download 2</a></strong> (28.12.2011)<br>
-Download OptiFine 1.0.0_HD_D2</strong> (added Animated Terrain and Items, custom water colors, fixed ClearWater, font mipmaps and Zoom with mouse button, fixed ModLoader compatibility): [Download](https://optifine.net/adload.php?f=OptiFine_1.0.0_HD_D2.zip), <a href="http://adf.ly/4MvnB" target="">Download 2</a></strong> (23.12.2011)<br>
-Download OptiFine 1.0.0_HD_C</strong> (added BetterSnow (<a href="http://imgur.com/a/h2yAE#0" target="">examples</a>, <a href="http://www.reddit.com/r/Minecraft/comments/nbtzv/shall_i_continue_with_this_simple_change/" target="">credit</a>), configurable Fullscreen resolution): [Download](https://optifine.net/adload.php?f=OptiFine_1.0.0_HD_C.zip), <a href="http://adf.ly/4GFg1" target="">Download 2</a></strong> (17.12.2011)<br>
-Download OptiFine 1.0.0_HD_B2</strong> (fixed Forge support, fixed clouds and chunk limits in FarView, fixed grass color after texturepack switch): [Download](https://optifine.net/adload.php?f=OptiFine_1.0.0_HD_B2.zip), <a href="http://adf.ly/43IVy" target="">Download 2</a></strong> (5.12.2011)<br>
-Download OptiFine 1.0.0_HD_B</strong> (fixed Forge support): [Download](http://ad.cx/of100b), <a href="http://adf.ly/3zguZ" target="">Download 2</a></strong> (25.11.2011)<br>
-Download OptiFine 1.0.0_HD_A</strong> (faster Smooth Lighting, Dripping Water/Lava, Debug Profiler, no block outlines when GUI is hidden (F1), fixed texturepack change, fixed Far View): [Download](http://adf.ly/3skMX), <a href="http://ad.cx/of100a" target="">Download 2</a></strong> (25.11.2011)<br>
-<br>
-<span style="font-size:18px">OptiFine Smooth 1.0.0</span></strong><br>
-<br>
-Download OptiFine 1.0.0_HD_S_D3</strong> (animated terrain and items, custom water, foliage and grass colors, custom block color palettes (<a href="http://www.minecraftforum.net/topic/232701-" target="">info</a>, <a href="http://www.minecraftforum.net/topic/69354-" target="">example</a>), smart texturepack switching, faster mipmaps (especially for custom block textures)): [Download](https://optifine.net/adload.php?f=OptiFine_1.0.0_HD_S_D3.zip), <a href="http://adf.ly/4RbiG" target="">Download 2</a></strong> (28.12.2011)<br>
-Download OptiFine 1.0.0_HD_S_D2</strong> (added Animated Terrain and Items, custom water colors, fixed ClearWater, font mipmaps and Zoom with mouse button, fixed ModLoader compatibility): [Download](https://optifine.net/adload.php?f=OptiFine_1.0.0_HD_S_D2.zip), <a href="http://adf.ly/4MvnC" target="">Download 2</a></strong>(23.12.2011)<br>
-Download OptiFine 1.0.0_HD_S_C</strong> (added BetterSnow (<a href="http://imgur.com/a/h2yAE#0" target="">examples</a>, <a href="http://www.reddit.com/r/Minecraft/comments/nbtzv/shall_i_continue_with_this_simple_change/" target="">credit</a>), configurable Fullscreen resolution): [Download](https://optifine.net/adload.php?f=OptiFine_1.0.0_HD_S_C.zip), <a href="http://adf.ly/4GGxj" target="">Download 2</a></strong> (17.12.2011)<br>
-Download OptiFine 1.0.0_HD_S_B2</strong> (fixed Forge support, fixed clouds and chunk limits in FarView, fixed grass color after texturepack switch): [Download](https://optifine.net/adload.php?f=OptiFine_1.0.0_HD_S_B2.zip), <a href="http://adf.ly/43IW0" target="">Download 2</a></strong> (5.12.2011)<br>
-Download OptiFine 1.0.0_HD_S_A</strong> (faster Smooth Lighting, Dripping Water/Lava, Debug Profiler, no block outlines when GUI is hidden (F1), fixed texturepack change, fixed Far View): [Download](http://adf.ly/3zGBP), <a href="http://ad.cx/of100sa" target="">Download 2</a></strong> (2.12.2011)<br>
-<br>
-<span style="font-size:18px">OptiFine Multi-Core 1.0.0</span></strong><br>
-<br>
-Download OptiFine 1.0.0_HD_MT_D3</strong> (animated terrain and items, custom water, foliage and grass colors, custom block color palettes (<a href="http://www.minecraftforum.net/topic/232701-" target="">info</a>, <a href="http://www.minecraftforum.net/topic/69354-" target="">example</a>), smart texturepack switching, faster mipmaps (especially for custom block textures)): [Download](https://optifine.net/adload.php?f=OptiFine_1.0.0_HD_MT_D3.zip), <a href="http://adf.ly/4RbiC" target="">Download 2</a></strong><br>
-(28.12.2011)<br>
-Download OptiFine 1.0.0_HD_MT_D2</strong> (added Animated Terrain and Items, custom water colors, fixed ClearWater, font mipmaps and Zoom with mouse button, fixed ModLoader compatibility): [Download](https://optifine.net/adload.php?f=OptiFine_1.0.0_HD_MT_D2.zip), <a href="http://adf.ly/4MvnD" target="">Download 2</a></strong>(23.12.2011)<br>
-Download OptiFine 1.0.0_HD_MT_C</strong> (added BetterSnow (<a href="http://imgur.com/a/h2yAE#0" target="">examples</a>, <a href="http://www.reddit.com/r/Minecraft/comments/nbtzv/shall_i_continue_with_this_simple_change/" target="">credit</a>), configurable Fullscreen resolution): [Download](https://optifine.net/adload.php?f=OptiFine_1.0.0_HD_MT_C.zip), <a href="http://adf.ly/4JXYf" target="">Download 2</a></strong> (20.12.2011)<br>
-Download OptiFine 1.0.0_HD_MT_B2</strong> (fixed Forge support, fixed clouds and chunk limits in FarView, fixed grass color after texturepack switch): [Download](https://optifine.net/adload.php?f=OptiFine_1.0.0_HD_MT_B2.zip), <a href="http://adf.ly/43IVz" target="">Download 2</a></strong> (5.12.2011)<br>
-Download OptiFine 1.0.0_HD_MT_A</strong> (faster Smooth Lighting, Dripping Water/Lava, Debug Profiler, no block outlines when GUI is hidden (F1), fixed texturepack change, fixed Far View): [Download](http://adf.ly/3zGBO), <a href="http://ad.cx/of100mta" target="">Download 2</a></strong>(2.12.2011)<br>
-<br>
-<span style="font-size:18px">OptiFine AA 1.0.0</span></strong><br>
-<br>
-Antialiasing, Anisotropic filtering<br>
-<br>
-Download OptiFine 1.0.0_HD_AA_D3</strong> (animated terrain and items, custom water, foliage and grass colors, custom block color palettes (<a href="http://www.minecraftforum.net/topic/232701-" target="">info</a>, <a href="http://www.minecraftforum.net/topic/69354-" target="">example</a>), smart texturepack switching, faster mipmaps (especially for custom block textures), ModLoader bugfixes): [Download](https://optifine.net/adload.php?f=OptiFine_1.0.0_HD_AA_D3.zip)</strong> (28.12.2011)<br>
-Download OptiFine 1.0.0_HD_AA_B2</strong> (fixed Forge support, fixed clouds and chunk limits in FarView, fixed grass color after texturepack switch): [Download](https://optifine.net/adload.php?f=OptiFine_1.0.0_HD_AA_B2.zip)</strong> (5.12.2011)
+OptiFine_1.0.0_HD_D3: [Download](https://optifine.net/adload.php?f=OptiFine_1.0.0_HD_D3.zip)\
+OptiFine_1.0.0_HD_D2: [Download](https://optifine.net/adload.php?f=OptiFine_1.0.0_HD_D2.zip)\
+OptiFine_1.0.0_HD_C: [Download](https://optifine.net/adload.php?f=OptiFine_1.0.0_HD_C.zip)\
+OptiFine_1.0.0_HD_B2: [Download](https://optifine.net/adload.php?f=OptiFine_1.0.0_HD_B2.zip)\
+OptiFine_1.0.0_HD_B: [Download](https://github.com/iAmSpace/OptiFine/raw/main/versions/1.0/standard/OptiFine_1.0.0_HD_B.zip)\
+OptiFine_1.0.0_HD_A: [Download](https://github.com/iAmSpace/OptiFine/raw/main/versions/1.0/standard/OptiFine_1.0.0_HD_A.zip)\
+OptiFine_1.0.0_HD_S_D3: [Download](https://optifine.net/adload.php?f=OptiFine_1.0.0_HD_S_D3.zip)\
+OptiFine_1.0.0_HD_S_D2: [Download](https://optifine.net/adload.php?f=OptiFine_1.0.0_HD_S_D2.zip)\
+OptiFine_1.0.0_HD_S_C: [Download](https://optifine.net/adload.php?f=OptiFine_1.0.0_HD_S_C.zip)\
+OptiFine_1.0.0_HD_S_B2: [Download](https://optifine.net/adload.php?f=OptiFine_1.0.0_HD_S_B2.zip)\
+OptiFine_1.0.0_HD_S_A: *Lost to time. If you have this version please contact iAmSpace#0777 on Discord.*\
+OptiFine_1.0.0_HD_MT_D3: [Download](https://optifine.net/adload.php?f=OptiFine_1.0.0_HD_MT_D3.zip)\
+OptiFine_1.0.0_HD_MT_D2: [Download](https://optifine.net/adload.php?f=OptiFine_1.0.0_HD_MT_D2.zip)\
+OptiFine_1.0.0_HD_MT_C: [Download](https://optifine.net/adload.php?f=OptiFine_1.0.0_HD_MT_C.zip)\
+OptiFine_1.0.0_HD_MT_B2: [Download](https://optifine.net/adload.php?f=OptiFine_1.0.0_HD_MT_B2.zip)\
+OptiFine_1.0.0_HD_MT_A: [Download](https://github.com/iAmSpace/OptiFine/raw/main/versions/1.0/multi-core/OptiFine_1.0.0_HD_MT_A.zip)\
+OptiFine_1.0.0_HD_AA_D3: [Download](https://optifine.net/adload.php?f=OptiFine_1.0.0_HD_AA_D3.zip)\
+OptiFine_1.0.0_HD_AA_B2: [Download](https://optifine.net/adload.php?f=OptiFine_1.0.0_HD_AA_B2.zip)
 
 # Minecraft Beta 1.9
 
-OptiFine_1.9.p5.HD_D2: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.9.p5.HD_D2.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFine_1.9.p5.HD_D2.zip" target="">Mirror</a></strong></div>
+OptiFine_1.9.p5.HD_D2: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.9.p5.HD_D2.zip)
 
 # Minecraft Beta 1.8.1
 
-OptiFine_1.8.1_HD_D2: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_D2.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_D2.zip" target="">Mirror</a><br>
-OptiFine_1.8.1_HD_D: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_D.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_D.zip" target="">Mirror</a><br>
-OptiFine_1.8.1_HD_C: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_C.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_C.zip" target="">Mirror</a><br>
-OptiFine_1.8.1_HD_C2: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_C2.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_C2.zip" target="">Mirror</a><br>
-OptiFine_1.8.1_HD_C1: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_C1.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_C1.zip" target="">Mirror</a><br>
-OptiFine_1.8.1_HD_B1: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_B1.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_B1.zip" target="">Mirror</a><br>
-OptiFine_1.8.1_HD_B: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_B.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_B.zip" target="">Mirror</a><br>
-OptiFine_1.8.1_HD_A: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_A.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_A.zip" target="">Mirror</a><br>
-OptiFine_1.8.1_HD_S_D2: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_S_D2.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_S_D2.zip" target="">Mirror</a><br>
-OptiFine_1.8.1_HD_S_D: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_S_D.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_S_D.zip" target="">Mirror</a><br>
-OptiFine_1.8.1_HD_S_C2: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_S_C2.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_S_C2.zip" target="">Mirror</a><br>
-OptiFine_1.8.1_HD_S_C1: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_S_C1.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_S_C1.zip" target="">Mirror</a><br>
-OptiFine_1.8.1_HD_S_C: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_S_C.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_S_C.zip" target="">Mirror</a><br>
-OptiFine_1.8.1_HD_S_B1: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_S_B1.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_S_B1.zip" target="">Mirror</a><br>
-OptiFine_1.8.1_HD_S_B: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_S_B.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_S_B.zip" target="">Mirror</a><br>
-OptiFine_1.8.1_HD_S_A: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_S_A.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_S_A.zip" target="">Mirror</a><br>
-OptiFine_1.8.1_HD_MT_D2: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_MT_D2.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_MT_D2.zip" target="">Mirror</a><br>
-OptiFine_1.8.1_HD_MT_D: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_MT_D.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_MT_D.zip" target="">Mirror</a><br>
-OptiFine_1.8.1_HD_MT_C2: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_MT_C2.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_MT_C2.zip" target="">Mirror</a><br>
-OptiFine_1.8.1_HD_MT_B: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_MT_B.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_MT_B.zip" target="">Mirror</a><br>
-OptiFine_1.8.1_HD_MT_A3: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_MT_A3.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_MT_A3.zip" target="">Mirror</a><br>
-OptiFine_1.8.1_HD_MT_A2: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_MT_A2.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_MT_A2.zip" target="">Mirror</a><br>
-OptiFine_1.8.1_HD_MT_A1: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_MT_A1.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_MT_A1.zip" target="">Mirror</a><br>
-OptiFine_1.8.1_HD_MT_A: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_MT_A.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_MT_A.zip" target="">Mirror</a><br>
-OptiFine_1.8.1_HD_AA_D2: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_AA_D2.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_AA_D2.zip" target="">Mirror</a><br>
-OptiFine_1.8.1_HD_AA_D1: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_AA_D1.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_AA_D1.zip" target="">Mirror</a><br>
-<br>
-<span style="font-size:18px">Optimine 1.8.1</span><br>
-Download Optimine 1.8.1</strong> (ported to 1.8.1): [Download](http://adf.ly/33AEm), <a href="http://adf.ly/33AG9" target="">Download 2</a></strong> (04.10.2011)<br>
-<br>
-<span style="font-size:18px">Lag Spike of Death 1.8.1</span><br>
-(included in OptiFine and Optimine)<br>
-This fixes the annoying Lag Spike of Death, for more info: [Download](http://www.minecraftforum.net/topic/358054-minecraft-lag-spike-of-death-and-other-gamebreaking-bugs/" target="">http://www.minecraft...ebreaking-bugs/</a><br>
-Download LagSpikeOfDeath 1.8.1</strong> (included in OptiFine and Optimine): [Download](http://adf.ly/2oAs1), <a href="http://adf.ly/2oA2E" target="">Download 2</a></strong></div>
-<p> </strong></strong></p>
+OptiFine_1.8.1_HD_D2: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_D2.zip)\
+OptiFine_1.8.1_HD_D: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_D.zip)\
+OptiFine_1.8.1_HD_C: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_C.zip)\
+OptiFine_1.8.1_HD_C2: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_C2.zip)\
+OptiFine_1.8.1_HD_C1: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_C1.zip)\
+OptiFine_1.8.1_HD_B1: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_B1.zip)\
+OptiFine_1.8.1_HD_B: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_B.zip)\
+OptiFine_1.8.1_HD_A: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_A.zip)\
+OptiFine_1.8.1_HD_S_D2: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_S_D2.zip)\
+OptiFine_1.8.1_HD_S_D: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_S_D.zip)\
+OptiFine_1.8.1_HD_S_C2: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_S_C2.zip)\
+OptiFine_1.8.1_HD_S_C1: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_S_C1.zip)\
+OptiFine_1.8.1_HD_S_C: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_S_C.zip)\
+OptiFine_1.8.1_HD_S_B1: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_S_B1.zip)\
+OptiFine_1.8.1_HD_S_B: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_S_B.zip)\
+OptiFine_1.8.1_HD_S_A: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_S_A.zip)\
+OptiFine_1.8.1_HD_MT_D2: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_MT_D2.zip)\
+OptiFine_1.8.1_HD_MT_D: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_MT_D.zip)\
+OptiFine_1.8.1_HD_MT_C2: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_MT_C2.zip)\
+OptiFine_1.8.1_HD_MT_B: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_MT_B.zip)\
+OptiFine_1.8.1_HD_MT_A3: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_MT_A3.zip)\
+OptiFine_1.8.1_HD_MT_A2: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_MT_A2.zip)\
+OptiFine_1.8.1_HD_MT_A1: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_MT_A1.zip)\
+OptiFine_1.8.1_HD_MT_A: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_MT_A.zip)\
+OptiFine_1.8.1_HD_AA_D2: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_AA_D2.zip)\
+OptiFine_1.8.1_HD_AA_D1: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.8.1_HD_AA_D1.zip)\
+
+## OptiMine
+
+Optimine_1.8.1: [Download](https://github.com/iAmSpace/OptiFine/raw/main/versions/b1.8.1/Optimine_1.8.1.zip)
+
+## Lag Spike of Death Fix
+
+This fixes the annoying Lag Spike of Death. For more info, click [here](http://www.minecraftforum.net/topic/358054-minecraft-lag-spike-of-death-and-other-gamebreaking-bugs/).\
+LagSpikeOfDeath_1.8.1: [Download](https://github.com/iAmSpace/OptiFine/raw/main/versions/b1.8.1/LagSpikeOfDeath_1.8.1.zip)
+
 # Minecraft Beta 1.7.3
 
-Optimine_1.7.3: [Download](https://optifine.net/adloadx?f=beta_Optimine_1.7.3.zip) <a href="https://optifine.net/adloadx?f=beta_Optimine_1.7.3.zip" target="">Mirror</a><br>
-OptiFog_Optimine_1.7.3_HD: [Download](https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.7.3_HD.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.7.3_HD.zip" target="">Mirror</a><br>
-OptiFog_Optimine_1.7.3_HD_E: [Download](https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.7.3_HD_E.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.7.3_HD_E.zip" target="">Mirror</a><br>
-OptiFog_Optimine_1.7.3_HD_E_MT2: [Download](https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.7.3_HD_E_MT2.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.7.3_HD_E_MT2.zip" target="">Mirror</a><br>
-OptiFog_Optimine_1.7.3_HD_E2_MT3: [Download](https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.7.3_HD_E2_MT3.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.7.3_HD_E2_MT3.zip" target="">Mirror</a><br>
-OptiFog_Optimine_1.7.3_HD_D: [Download](https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.7.3_HD_D.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.7.3_HD_D.zip" target="">Mirror</a><br>
-OptiFog_Optimine_1.7.3_HD_D_MT: [Download](https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.7.3_HD_D_MT.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.7.3_HD_D_MT.zip" target="">Mirror</a><br>
-OptiFog_Optimine_1.7.3_HD_D_MT2: [Download](https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.7.3_HD_D_MT2.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.7.3_HD_D_MT2.zip" target="">Mirror</a><br>
-OptiFog_Optimine_1.7.3_HD_D_MT2_DL: [Download](https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.7.3_HD_D_MT2_DL.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.7.3_HD_D_MT2_DL.zip" target="">Mirror</a><br>
-OptiFog_Optimine_1.7.3_HD_D_DL: [Download](https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.7.3_HD_D_DL.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.7.3_HD_D_DL.zip" target="">Mirror</a><br>
-OptiFog_Optimine_1.7.3_HD_C: [Download](https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.7.3_HD_C.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.7.3_HD_C.zip" target="">Mirror</a><br>
-OptiFog_Optimine_1.7.3_HD_B: [Download](https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.7.3_HD_B.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.7.3_HD_B.zip" target="">Mirror</a><br>
-OptiFog_Optimine_1.7.3_HD_B_MT_8: [Download](https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.7.3_HD_B_MT_8.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.7.3_HD_B_MT_8.zip" target="">Mirror</a><br>
-OptiFog_Optimine_1.7.3_HD_A: [Download](https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.7.3_HD_A.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.7.3_HD_A.zip" target="">Mirror</a><br>
-OptiFine_1.7.3_HD_S_G: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.7.3_HD_S_G.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFine_1.7.3_HD_S_G.zip" target="">Mirror</a><br>
-OptiFine_1.7.3_HD_S_B_Test: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.7.3_HD_S_B_Test.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFine_1.7.3_HD_S_B_Test.zip" target="">Mirror</a><br>
-OptiFine_1.7.3_HD_MT_G2: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.7.3_HD_MT_G2.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFine_1.7.3_HD_MT_G2.zip" target="">Mirror</a><br>
-OptiFine_1.7.3_HD_G: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.7.3_HD_G.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFine_1.7.3_HD_G.zip" target="">Mirror</a><br>
-OptiFine_1.7.3_HD_F: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.7.3_HD_F.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFine_1.7.3_HD_F.zip" target="">Mirror</a><br>
-OptiFine_1.7.3_HD_F_MTL: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.7.3_HD_F_MTL.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFine_1.7.3_HD_F_MTL.zip" target="">Mirror</a><br>
-OptiFine_1.7.3_HD_AA_G5: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.7.3_HD_AA_G5.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFine_1.7.3_HD_AA_G5.zip" target="">Mirror</a><br>
-<br>
-<span style="font-size:18px">OptiFine Standard 1.7.3</span><br>
-Download OptiFine 1.7.3_HD_G</strong> (fixed handheld items, added Zoom, SmoothInput): [Download](http://adf.ly/2LCjx), <a href="http://adf.ly/2XV7x" target="">Download 2</a></strong> (16.08.2011)<br>
-Download OptiFine 1.7.3_HD_F</strong> (added Time and ClearWater options): [Download](http://adf.ly/2FRiK), <a href="http://adf.ly/2GGkC" target="">Download 2</a></strong> (31.07.2011)<br>
-Download OptiFog + Optimine 1.7.3_HD_E</strong> (compatible with DynamicLights, added: FarView and ChunkUpdates): [Download](http://adf.ly/2Ddy4), <a href="http://adf.ly/29xhL" target="">Download 2</a></strong><br>
-Download OptiFog + Optimine 1.7.3_HD_D (added descriptions for the main options, bugfixes): [Download](http://adf.ly/28ZTu), <a href="http://adf.ly/28ZVH" target="">Download 2</a><br>
-Download OptiFog + Optimine 1.7.3_HD_C (fixed BetterGrass, options Sky and Stars): [Download](http://adf.ly/27XH2), <a href="http://adf.ly/270BB" target="">Download 2</a><br>
-Download OptiFog + Optimine 1.7.3_HD_B (fine tuned Advanced OpenGL, +30% FPS possible): [Download](http://adf.ly/23AuO), <a href="http://adf.ly/23AwG" target="">Download 2</a><br>
-Download OptiFog + Optimine 1.7.3_HD_A (added 2-pass water rendering, option weather, dynamic water and lava): [Download](http://adf.ly/22Wc5), <a href="http://adf.ly/22WdS" target="">Download 2</a><br>
-Download OptiFog + Optimine 1.7.3_HD (faster Smooth FPS): [Download](http://adf.ly/22RAG), <a href="http://adf.ly/22RB1" target="">Download 2</a><br>
-<br>
-<span style="font-size:18px">OptiFine Smooth 1.7.3</span><br>
-Download OptiFine 1.7.3_HD_S_G</strong> (fixed handheld items, added Zoom, SmoothInput): [Download](http://adf.ly/2LCo8), <a href="http://adf.ly/2XV9P" target="">Download 2</a></strong> (16.08.2011)<br>
-Download OptiFine 1.7.3_HD_F_MTL</strong> (added Time and ClearWater options): [Download](http://adf.ly/2FRlc), <a href="http://adf.ly/2G1eM" target="">Download 2</a></strong> (31.07.2011)<br>
-<br>
-<span style="font-size:18px">OptiFine Multi-Core 1.7.3</span><br>
-Download OptiFine 1.7.3_HD_MT_G2</strong> (fixed handheld items, added Zoom and Smooth Input): [Download](http://adf.ly/2MxjG), <a href="http://adf.ly/2XVBA" target="">Download 2</a></strong> (16.08.2011)<br>
-Download OptiFog + Optimine 1.7.3_HD_E_MT</strong> (compatible with DynamicLights, added: FarView and ChunkUpdates): [Download](http://adf.ly/2Dex5), <a href="http://adf.ly/29xlj" target="">Download 2</a></strong><br>
-Download OptiFog + Optimine 1.7.3_HD_D_MT2 (multithreaded, background chunk loading): [Download](http://adf.ly/28qKw), <a href="http://adf.ly/28qMU" target="">Download 2</a><br>
-<br>
-<span style="font-size:18px">OptiFine AA 1.7.3</span><br>
-Download OptiFine 1.7.3_HD_AA</strong> (experimental): [Download](http://adf.ly/2ThUU" target="">Download</strong></a><br>
-<br>
-<span style="font-size:18px">Optimine 1.7.3</span><br>
-Download Optimine 1.7.3</strong> (ported to 1.7.3): [Download](http://adf.ly/2DgPb), <a href="http://adf.ly/2XVEE" target="">Download 2</a></strong><br>
-<br>
-<span style="font-size:18px">Lag Spike of Death 1.7.3</span><br>
-Download LagSpikeOfDeath 1.7.3</strong> (included in OptiFine and Optimine): [Download](http://adf.ly/22QPa), <a href="http://adf.ly/2XVKX" target="">Download 2</a></strong></div>
-<p> </strong></strong></p>
+Optimine_1.7.3: [Download](https://optifine.net/adloadx?f=beta_Optimine_1.7.3.zip)\
+OptiFog_Optimine_1.7.3_HD: [Download](https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.7.3_HD.zip)\
+OptiFog_Optimine_1.7.3_HD_E: [Download](https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.7.3_HD_E.zip)\
+OptiFog_Optimine_1.7.3_HD_E_MT2: [Download](https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.7.3_HD_E_MT2.zip)\
+OptiFog_Optimine_1.7.3_HD_E2_MT3: [Download](https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.7.3_HD_E2_MT3.zip)\
+OptiFog_Optimine_1.7.3_HD_D: [Download](https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.7.3_HD_D.zip)\
+OptiFog_Optimine_1.7.3_HD_D_MT: [Download](https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.7.3_HD_D_MT.zip)\
+OptiFog_Optimine_1.7.3_HD_D_MT2: [Download](https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.7.3_HD_D_MT2.zip)\
+OptiFog_Optimine_1.7.3_HD_D_MT2_DL: [Download](https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.7.3_HD_D_MT2_DL.zip)\
+OptiFog_Optimine_1.7.3_HD_D_DL: [Download](https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.7.3_HD_D_DL.zip)\
+OptiFog_Optimine_1.7.3_HD_C: [Download](https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.7.3_HD_C.zip)\
+OptiFog_Optimine_1.7.3_HD_B: [Download](https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.7.3_HD_B.zip)\
+OptiFog_Optimine_1.7.3_HD_B_MT_8: [Download](https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.7.3_HD_B_MT_8.zip)\
+OptiFog_Optimine_1.7.3_HD_A: [Download](https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.7.3_HD_A.zip)\
+OptiFine_1.7.3_HD_S_G: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.7.3_HD_S_G.zip)\
+OptiFine_1.7.3_HD_S_B_Test: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.7.3_HD_S_B_Test.zip)\
+OptiFine_1.7.3_HD_MT_G2: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.7.3_HD_MT_G2.zip)\
+OptiFine_1.7.3_HD_G: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.7.3_HD_G.zip)\
+OptiFine_1.7.3_HD_F: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.7.3_HD_F.zip)\
+OptiFine_1.7.3_HD_F_MTL: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.7.3_HD_F_MTL.zip)\
+OptiFine_1.7.3_HD_AA_G5: [Download](https://optifine.net/adloadx?f=beta_OptiFine_1.7.3_HD_AA_G5.zip)
+OptiFine 1.7.3_HD_G: [Download](https://github.com/iAmSpace/OptiFine/raw/main/versions/b1.7.3/OptiFine_1.7.3_HD_G.zip)
+OptiFine 1.7.3_HD_F: [Download](https://github.com/iAmSpace/OptiFine/raw/main/versions/b1.7.3/OptiFine_1.7.3_HD_F.zip)
+OptiFog + Optimine 1.7.3_HD_E: *Lost to time. If you have this version please contact iAmSpace#0777 on Discord.*
+OptiFog + Optimine 1.7.3_HD_D: *Lost to time. If you have this version please contact iAmSpace#0777 on Discord.*
+OptiFog + Optimine 1.7.3_HD_C: *Lost to time. If you have this version please contact iAmSpace#0777 on Discord.*
+OptiFog + Optimine 1.7.3_HD_B: *Lost to time. If you have this version please contact iAmSpace#0777 on Discord.*
+OptiFog + Optimine 1.7.3_HD_A: *Lost to time. If you have this version please contact iAmSpace#0777 on Discord.*
+OptiFog + Optimine 1.7.3_HD: *Lost to time. If you have this version please contact iAmSpace#0777 on Discord.*
+OptiFine 1.7.3_HD_S_G: [Download](https://github.com/iAmSpace/OptiFine/raw/main/versions/b1.7.3/OptiFine_1.7.3_HD_S_G.zip)
+OptiFine 1.7.3_HD_F_MTL: [Download](https://github.com/iAmSpace/OptiFine/raw/main/versions/b1.7.3/OptiFine_1.7.3_HD_F_MTL.zip)
+OptiFine 1.7.3_HD_MT_G2: [Download](https://github.com/iAmSpace/OptiFine/raw/main/versions/b1.7.3/OptiFine_1.7.3_HD_MT_G2.zip)
+OptiFog + Optimine 1.7.3_HD_E_MT: *Lost to time. If you have this version please contact iAmSpace#0777 on Discord.*
+OptiFog + Optimine 1.7.3_HD_D_MT2: *Lost to time. If you have this version please contact iAmSpace#0777 on Discord.*
+OptiFine 1.7.3_HD_AA: *Lost to time. If you have this version please contact iAmSpace#0777 on Discord.*
+
+## OptiMine
+Optimine_1.7.3: [Download](https://github.com/iAmSpace/OptiFine/raw/main/versions/b1.7.3/Optimine_1.7.3.zip)
+
+## Lag Spike of Death Fix
+LagSpikeOfDeath_1.7.3: [Download](https://github.com/iAmSpace/OptiFine/raw/main/versions/b1.7.3/LagSpikeOfDeath_1.7.3.zip)
+
 # Minecraft Beta 1.7.2
 
-OptiFog_Optimine_1.7.2_HD: [Download](https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.7.2_HD.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.7.2_HD.zip" target="">Mirror</a><br>
-OptiFog_Optimine_1.7.2_HD_C: [Download](https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.7.2_HD_C.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.7.2_HD_C.zip" target="">Mirror</a><br>
-OptiFog_Optimine_1.7.2_HD_B: [Download](https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.7.2_HD_B.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.7.2_HD_B.zip" target="">Mirror</a><br>
-OptiFog_Optimine_1.7.2_HD_A: [Download](https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.7.2_HD_A.zip) <a href="https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.7.2_HD_A.zip" target="">Mirror</a><br>
-Optimine_1.7.2: [Download](https://optifine.net/adloadx?f=beta_Optimine_1.7.2.zip) <a href="https://optifine.net/adloadx?f=beta_Optimine_1.7.2.zip" target="">Mirror</a><br>
-Optimine_1.7.2_A: [Download](https://optifine.net/adloadx?f=beta_Optimine_1.7.2_A.zip) <a href="https://optifine.net/adloadx?f=beta_Optimine_1.7.2_A.zip" target="">Mirror</a><br>
-LagSpikeOfDeath_1.7.2: [Download](https://optifine.net/adloadx?f=beta_LagSpikeOfDeath_1.7.2.zip) <a href="https://optifine.net/adloadx?f=beta_LagSpikeOfDeath_1.7.2.zip" target="">Mirror</a><br>
-<br>
-<span style="font-size:18px">OptiFog 1.7.2_HD_C</span><br>
-<span style="font-size:16px">(supports HD textures and HD fonts, MCPatcher not needed)</strong></span><br>
-<br>
-Download OptiFog + Optimine 1.7.2_HD_C</strong> (added support for HD fonts): [Download](http://adf.ly/2230b), <a href="http://adf.ly/2232E" target="">Download 2</a></strong><br>
-Download OptiFog + Optimine 1.7.2_HD_B (fixed ModLoader compatibility): [Download](http://adf.ly/21U7H), <a href="http://adf.ly/21U8I" target="">Download 2</a><br>
-Download OptiFog + Optimine 1.7.2_HD_A (restored BetterGrass, SmoothLighting): [Download](http://adf.ly/21RU8), <a href="http://adf.ly/21RbV" target="">Download 2</a><br>
-Download OptiFog + Optimine 1.7.2_HD (added Animated Redstone, Explode, Flame and Smoke): [Download](http://adf.ly/20rcU), <a href="http://adf.ly/20reV" target="">Download 2</a><br>
-<br>
-<span style="font-size:18px">Optimine 1.7.2_A</span><br>
-This mod improves FPS, especially for slower computers. Gains of 20FPS and more are common. Originally by Scaevolus.<br>
-<br>
-Download Optimine 1.7.2_A</strong> (added fix for Lag Spike of Death): [Download](http://adf.ly/21UcT), <a href="http://adf.ly/21UaJ" target="">Download 2</a></strong><br>
-Download Optimine 1.7.2 (port of Optimine 1.6.6_B ): [Download](http://adf.ly/21Sb2), <a href="http://adf.ly/21Sdr" target="">Download 2</a><br>
-<br>
-The standalone OptiMine and OptiFog are not compatible</strong> with each other, use the combined version.<br>
-<br>
-<span style="font-size:18px">Lag Spike of Death 1.7.2</span><br>
-(included in OptiFog and Optimine)<br>
-This fixes the annoying Lag Spike of Death, for more info: [Download](http://www.minecraftforum.net/topic/358054-minecraft-lag-spike-of-death-and-other-gamebreaking-bugs/" target="">http://www.minecraft...ebreaking-bugs/</a><br>
-<br>
-Download LagSpikeOfDeath 1.7.2</strong> (included in OptiFog and Optimine): [Download](http://adf.ly/21UpP), <a href="http://adf.ly/21Usm" target="">Download 2</a></strong></div>
-<p> </strong></strong></p>
+OptiFog_Optimine_1.7.2_HD: [Download](https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.7.2_HD.zip)
+OptiFog_Optimine_1.7.2_HD_C: [Download](https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.7.2_HD_C.zip)
+OptiFog_Optimine_1.7.2_HD_B: [Download](https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.7.2_HD_B.zip)
+OptiFog_Optimine_1.7.2_HD_A: [Download](https://optifine.net/adloadx?f=beta_OptiFog_Optimine_1.7.2_HD_A.zip)
+
+## OptiMine
+Optimine_1.7.2: [Download](https://optifine.net/adloadx?f=beta_Optimine_1.7.2.zip)
+Optimine_1.7.2_A: [Download](https://optifine.net/adloadx?f=beta_Optimine_1.7.2_A.zip)
+
+## Lag Spike of Death Fix
+LagSpikeOfDeath_1.7.2: [Download](https://optifine.net/adloadx?f=beta_LagSpikeOfDeath_1.7.2.zip)
+
 # Minecraft Beta 1.6.6
 
 OptiFog_1.6.6: [Download](https://optifine.net/adloadx?f=beta_OptiFog_1.6.6.zip)
