@@ -1,5 +1,89 @@
+# Minecraft 1.19.2
+
+preview_OptiFine_1.19.2_HD_U_I1_pre2: [Download](https://optifine.net/adloadx?f=preview_OptiFine_1.19.2_HD_U_I1_pre2.jar)\
+preview_OptiFine_1.19.2_HD_U_I1_pre1: [Download](https://optifine.net/adloadx?f=preview_OptiFine_1.19.2_HD_U_I1_pre1.jar)\
+OptiFine_1.19.2_HD_U_H9: [Download](https://optifine.net/adloadx?f=OptiFine_1.19.2_HD_U_H9.jar)
+
+# Minecraft 1.19.1
+
+OptiFine_1.19.1_HD_U_H9: [Download](https://optifine.net/adloadx?f=OptiFine_1.19.1_HD_U_H9.jar)
+
+# Minecraft 1.19
+
+OptiFine_1.19_HD_U_H9: [Download](https://optifine.net/adloadx?f=OptiFine_1.19_HD_U_H9.jar)\
+OptiFine_1.19_HD_U_H8: [Download](https://optifine.net/adloadx?f=OptiFine_1.19_HD_U_H8.jar)
+
+# Minecraft 1.18.2
+
+preview_OptiFine_1.18.2_HD_U_H9_pre1: [Download](https://optifine.net/adloadx?f=preview_OptiFine_1.18.2_HD_U_H9_pre1.jar)\
+preview_OptiFine_1.18.2_HD_U_H8_pre1: [Download](https://optifine.net/adloadx?f=preview_OptiFine_1.18.2_HD_U_H8_pre1.jar)\
+OptiFine_1.18.2_HD_U_H7: [Download](https://optifine.net/adloadx?f=OptiFine_1.18.2_HD_U_H7.jar)\
+OptiFine_1.18.2_HD_U_H6: [Download](https://optifine.net/adloadx?f=OptiFine_1.18.2_HD_U_H6.jar)
+
+# Minecraft 1.18.1
+
+OptiFine_1.18.1_HD_U_H6: [Download](https://optifine.net/adloadx?f=OptiFine_1.18.1_HD_U_H6.jar)\
+OptiFine_1.18.1_HD_U_H5: [Download](https://optifine.net/adloadx?f=OptiFine_1.18.1_HD_U_H5.jar)\
+OptiFine_1.18.1_HD_U_H4: [Download](https://optifine.net/adloadx?f=OptiFine_1.18.1_HD_U_H4.jar)
+
+# Minecraft 1.18
+
+OptiFine_1.18_HD_U_H3: [Download](https://optifine.net/adloadx?f=OptiFine_1.18_HD_U_H3.jar)
+
+# Minecraft 1.17.1
+
+preview_OptiFine_1.17.1_HD_U_H2_pre1: [Download](https://optifine.net/adloadx?f=preview_OptiFine_1.17.1_HD_U_H2_pre1.jar)\
+OptiFine_1.17.1_HD_U_H1: [Download](https://optifine.net/adloadx?f=OptiFine_1.17.1_HD_U_H1.jar)\
+OptiFine_1.17.1_HD_U_G9: [Download](https://optifine.net/adloadx?f=OptiFine_1.17.1_HD_U_G9.jar)
+
+# Minecraft 1.17
+
+preview_OptiFine_1.17_HD_U_G9_pre26: [Download](https://optifine.net/adloadx?f=preview_OptiFine_1.17_HD_U_G9_pre26.jar)\
+preview_OptiFine_1.17_HD_U_G9_pre25: [Download](https://optifine.net/adloadx?f=preview_OptiFine_1.17_HD_U_G9_pre25.jar)
+
+# Minecraft 1.16.5
+
+OptiFine_1.16.5_HD_U_G8: [Download](https://optifine.net/adloadx?f=OptiFine_1.16.5_HD_U_G8.jar)\
+OptiFine_1.16.5_HD_U_G7: [Download](https://optifine.net/adloadx?f=OptiFine_1.16.5_HD_U_G7.jar)\
+OptiFine_1.16.5_HD_U_G6: [Download](https://optifine.net/adloadx?f=OptiFine_1.16.5_HD_U_G6.jar)
+
+# Minecraft 1.16.4
+
+OptiFine_1.16.4_HD_U_G7: [Download](https://optifine.net/adloadx?f=OptiFine_1.16.4_HD_U_G7.jar)\
+OptiFine_1.16.4_HD_U_G6: [Download](https://optifine.net/adloadx?f=OptiFine_1.16.4_HD_U_G6.jar)\
+OptiFine_1.16.4_HD_U_G5: [Download](https://optifine.net/adloadx?f=OptiFine_1.16.4_HD_U_G5.jar)
+
+# Minecraft 1.16.3
+
+OptiFine_1.16.3_HD_U_G5: [Download](https://optifine.net/adloadx?f=OptiFine_1.16.3_HD_U_G5.jar)\
+OptiFine_1.16.3_HD_U_G4: [Download](https://optifine.net/adloadx?f=OptiFine_1.16.3_HD_U_G4.jar)\
+OptiFine_1.16.3_HD_U_G3: [Download](https://optifine.net/adloadx?f=OptiFine_1.16.3_HD_U_G3.jar)
+
+# Minecraft 1.16.2
+
+OptiFine_1.16.2_HD_U_G5: [Download](https://optifine.net/adloadx?f=OptiFine_1.16.2_HD_U_G5.jar)\
+OptiFine_1.16.2_HD_U_G3: [Download](https://optifine.net/adloadx?f=OptiFine_1.16.2_HD_U_G3.jar)
+
+# Minecraft 1.16.1
+
+OptiFine_1.16.1_HD_U_G2: [Download](https://optifine.net/adloadx?f=OptiFine_1.16.1_HD_U_G2.jar)
+
+---
+### Minecraft version 1.16 is missing.
+---
+
 # Minecraft 1.8.9
 
+preview_OptiFine_1.8.9_HD_U_M6_pre2: [Download](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)\
+preview_OptiFine_1.8.9_HD_U_M6_pre1: [Download](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre1.jar)\
+OptiFine_1.8.9_HD_U_M5: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_M5.jar)\
+OptiFine_1.8.9_HD_U_L5: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_L5.jar)\
+OptiFine_1.8.9_HD_U_I7: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_I7.jar)\
+OptiFine_1.8.9_HD_U_I3: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_I3.jar)\
+OptiFine_1.8.9_HD_U_H8: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_H8.jar)\
+OptiFine_1.8.9_HD_U_H7: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_H7.jar)\
+OptiFine_1.8.9_HD_U_H6: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_H6.jar)\
+OptiFine_1.8.9_HD_U_H5: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_H5.jar)\
 OptiFine_1.8.9_HD_U_H3: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_H3.jar)\
 OptiFine_1.8.9_HD_U_H2: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_H2.jar)\
 OptiFine_1.8.9_HD_U_H1: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_H1.jar)\
@@ -8,6 +92,12 @@ OptiFine_1.8.9_HD_U_G7: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.9
 
 # Minecraft 1.8.8
 
+OptiFine_1.8.8_HD_U_I7: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.8_HD_U_I7.jar)\
+OptiFine_1.8.8_HD_U_I3: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.8_HD_U_I3.jar)\
+OptiFine_1.8.8_HD_U_H8: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.8_HD_U_H8.jar)\
+OptiFine_1.8.8_HD_U_H7: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.8_HD_U_H7.jar)\
+OptiFine_1.8.8_HD_U_H6: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.8_HD_U_H6.jar)\
+OptiFine_1.8.8_HD_U_H5: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.8_HD_U_H5.jar)\
 OptiFine_1.8.8_HD_U_H2: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.8_HD_U_H2.jar)\
 OptiFine_1.8.8_HD_U_G9: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.8_HD_U_G9.jar)\
 OptiFine_1.8.8_HD_U_G7: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.8_HD_U_G7.jar)\
@@ -63,6 +153,12 @@ OptiFine_1.8.1_HD_U_B2: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.1
 
 # Minecraft 1.8.0
 
+OptiFine_1.8.0_HD_U_I7: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_I7.jar)\
+OptiFine_1.8.0_HD_U_I3: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_I3.jar)\
+OptiFine_1.8.0_HD_U_H8: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_H8.jar)\
+OptiFine_1.8.0_HD_U_H7: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_H7.jar)\
+OptiFine_1.8.0_HD_U_H6: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_H6.jar)\
+OptiFine_1.8.0_HD_U_H5: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_H5.jar)\
 OptiFine_1.8.0_HD_U_H2: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_H2.jar)\
 OptiFine_1.8.0_HD_U_G9: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_G9.jar)\
 OptiFine_1.8.0_HD_U_G7: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_G7.jar)\
@@ -72,7 +168,24 @@ OptiFine_1.8.0_HD_U_D5: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.0
 OptiFine_1.8.0_HD_U_D4: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_D4.jar)\
 OptiFine_1.8.0_HD_U_D3: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_D3.jar)\
 OptiFine_1.8.0_HD_U_D2: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_D2.jar)\
-OptiFine_1.8.0_HD_U_D1: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_D1.jar)
+OptiFine_1.8.0_HD_U_D1: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_D1.jar)\
+OptiFine_1.8.0_HD_U_C7: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_C7.jar)\
+OptiFine_1.8.0_HD_U_C6: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_C6.jar)\
+OptiFine_1.8.0_HD_U_C2: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_C2.jar)\
+OptiFine_1.8.0_HD_U_C1: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_C1.jar)\
+OptiFine_1.8.0_HD_U_B6: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_B6.jar)\
+OptiFine_1.8.0_HD_U_B5: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_B5.jar)\
+OptiFine_1.8.0_HD_U_B4: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_B4.jar)\
+OptiFine_1.8.0_HD_U_B2: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_B2.jar)\
+OptiFine_1.8.0_HD_U_B1: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_B1.jar)\
+OptiFine_1.8.0_HD_U_B0: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_B0.jar)\
+OptiFine_1.8.0_HD_U_A9: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_A9.jar)\
+OptiFine_1.8.0_HD_U_A8: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_A8.jar)\
+OptiFine_1.8.0_HD_U_A7: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_A7.jar)\
+OptiFine_1.8.0_HD_U_A6: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_A6.jar)\
+OptiFine_1.8.0_HD_U_A5: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_A5.jar)\
+OptiFine_1.8.0_HD_U_A4: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_A4.jar)\
+OptiFine_1.8.0_HD_U_A3: [Download](https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_A3.jar)
 
 # Minecraft 1.7.10
 
