@@ -31,7 +31,7 @@ OptiFine_1.19.3_HD_U_I3: <a href="https://optifine.net/download?f=OptiFine_1.19.
 
 preview_OptiFine_1.19.2_HD_U_I2: <a href="https://optifine.net/download?f=preview_OptiFine_1.19.2_HD_U_I2.jar">Download</a>
 <details><summary>More</summary>
-	&nbsp;&nbsp;&nbsp;&nbsp;preview_OptiFine_1.19.2_HD_U_I1: <a href="https://optifine.net/download?f=preview_OptiFine_1.19.2_HD_U_I1.jar">Download</a><br/>
+	&nbsp;&nbsp;&nbsp;&nbsp;OptiFine_1.19.2_HD_U_I1: <a href="https://optifine.net/download?f=OptiFine_1.19.2_HD_U_I1.jar">Download</a><br/>
 	&nbsp;&nbsp;&nbsp;&nbsp;OptiFine_1.19.2_HD_U_H9: <a href="https://optifine.net/download?f=OptiFine_1.19.2_HD_U_H9.jar">Download</a>
 </details>
 
