@@ -1,11 +1,39 @@
-# Minecraft 1.19.2
+# Minecraft 1.20.1
 
 <details><summary>Preview versions</summary>
-	&nbsp;&nbsp;&nbsp;&nbsp;preview_OptiFine_1.19.2_HD_U_I1_pre2: <a href="https://optifine.net/download?f=preview_OptiFine_1.19.2_HD_U_I1_pre2.jar">Download</a><br/>
-	&nbsp;&nbsp;&nbsp;&nbsp;preview_OptiFine_1.19.2_HD_U_I1_pre1: <a href="https://optifine.net/download?f=preview_OptiFine_1.19.2_HD_U_I1_pre1.jar">Download</a>
+	&nbsp;&nbsp;&nbsp;&nbsp;preview_OptiFine_1.20.1_HD_U_I6_pre6: <a href="https://optifine.net/download?f=preview_OptiFine_1.20.1_HD_U_I6_pre6.jar">Download</a><br/>
+	&nbsp;&nbsp;&nbsp;&nbsp;preview_OptiFine_1.20.1_HD_U_I6_pre5: <a href="https://optifine.net/download?f=preview_OptiFine_1.20.1_HD_U_I6_pre5.jar">Download</a><br/>
+	&nbsp;&nbsp;&nbsp;&nbsp;preview_OptiFine_1.20.1_HD_U_I6_pre4: <a href="https://optifine.net/download?f=preview_OptiFine_1.20.1_HD_U_I6_pre4.jar">Download</a><br/>
+	&nbsp;&nbsp;&nbsp;&nbsp;preview_OptiFine_1.20.1_HD_U_I6_pre3: <a href="https://optifine.net/download?f=preview_OptiFine_1.20.1_HD_U_I6_pre3.jar">Download</a><br/>
 </details>
 
-OptiFine_1.19.2_HD_U_H9: <a href="https://optifine.net/download?f=OptiFine_1.19.2_HD_U_H9.jar">Download</a>
+OptiFine_1.20.1_HD_U_I5: <a href="https://optifine.net/download?f=OptiFine_1.20.1_HD_U_I5.jar">Download</a>
+
+# Minecraft 1.20
+
+<details><summary>Preview versions</summary>
+	&nbsp;&nbsp;&nbsp;&nbsp;preview_OptiFine_1.20_HD_U_I5_pre5: <a href="https://optifine.net/download?f=preview_OptiFine_1.20_HD_U_I5_pre5.jar">Download</a><br/>
+	&nbsp;&nbsp;&nbsp;&nbsp;preview_OptiFine_1.20_HD_U_I5_pre4: <a href="https://optifine.net/download?f=preview_OptiFine_1.20_HD_U_I5_pre4.jar">Download</a>
+</details>
+
+# Minecraft 1.19.4
+
+OptiFine_1.19.4_HD_U_I4: <a href="https://optifine.net/download?f=OptiFine_1.19.4_HD_U_I4.jar">Download</a>
+<details><summary>More</summary>
+	&nbsp;&nbsp;&nbsp;&nbsp;OptiFine_1.19.4_HD_U_I3: <a href="https://optifine.net/download?f=OptiFine_1.19.4_HD_U_I3.jar">Download</a>
+</details>
+
+# Minecraft 1.19.3
+
+OptiFine_1.19.3_HD_U_I3: <a href="https://optifine.net/download?f=OptiFine_1.19.3_HD_U_I3.jar">Download</a>
+
+# Minecraft 1.19.2
+
+preview_OptiFine_1.19.2_HD_U_I2: <a href="https://optifine.net/download?f=preview_OptiFine_1.19.2_HD_U_I2.jar">Download</a>
+<details><summary>More</summary>
+	&nbsp;&nbsp;&nbsp;&nbsp;preview_OptiFine_1.19.2_HD_U_I1: <a href="https://optifine.net/download?f=preview_OptiFine_1.19.2_HD_U_I1.jar">Download</a><br/>
+	&nbsp;&nbsp;&nbsp;&nbsp;OptiFine_1.19.2_HD_U_H9: <a href="https://optifine.net/download?f=OptiFine_1.19.2_HD_U_H9.jar">Download</a>
+</details>
 
 # Minecraft 1.19.1
 
@@ -20,13 +48,9 @@ OptiFine_1.19_HD_U_H9: <a href="https://optifine.net/download?f=OptiFine_1.19_HD
 
 # Minecraft 1.18.2
 
-<details><summary>Preview versions</summary>
-	&nbsp;&nbsp;&nbsp;&nbsp;preview_OptiFine_1.18.2_HD_U_H9_pre1: <a href="https://optifine.net/download?f=preview_OptiFine_1.18.2_HD_U_H9_pre1.jar">Download</a><br/>
-	&nbsp;&nbsp;&nbsp;&nbsp;preview_OptiFine_1.18.2_HD_U_H8_pre1: <a href="https://optifine.net/download?f=preview_OptiFine_1.18.2_HD_U_H8_pre1.jar">Download</a>
-</details>
-
-OptiFine_1.18.2_HD_U_H7: <a href="https://optifine.net/download?f=OptiFine_1.18.2_HD_U_H7.jar">Download</a>
+OptiFine_1.18.2_HD_U_H9: <a href="https://optifine.net/download?f=OptiFine_1.18.2_HD_U_H9.jar">Download</a>
 <details><summary>More</summary>
+	&nbsp;&nbsp;&nbsp;&nbsp;OptiFine_1.18.2_HD_U_H7: <a href="https://optifine.net/download?f=OptiFine_1.18.2_HD_U_H7.jar">Download</a>
 	&nbsp;&nbsp;&nbsp;&nbsp;OptiFine_1.18.2_HD_U_H6: <a href="https://optifine.net/download?f=OptiFine_1.18.2_HD_U_H6.jar">Download</a>
 </details>
 
